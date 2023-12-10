@@ -10,7 +10,7 @@
 <body>
 
   <h1 align="center">Hi 👋, I'm Niladri Das</h1>
-  <h3 align="center">Passionate Technician and Network Engineer from India</h3>
+  <h3 align="center">Professional Network Engineer from India</h3>
 
   <img align="right" alt="server" width="400"
     src="https://www.arcgis.com/sharing/rest/content/items/a21d93abf29d4b6990370cfcba143cd9/info/thumbnail/ago_downloaded.gif?w=800">
@@ -28,12 +28,12 @@
   </p>
 
   <ul>
-    <li>🌱 Currently learning Hardware A+, Networking N+, CCNA & CCNP</li>
-    <li>👨‍💻 Explore my projects: <a href="https://beacons.ai/niladridas">https://beacons.ai/niladridas</a></li>
-    <li>📝 Regularly write articles on <a href="https://bit.ly/3EGcdUv">https://bit.ly/3EGcdUv</a></li>
-    <li>💬 Ask me about VLSI, TCP/IP, shell script, Linux</li>
+    <li>🌱 Currently mastering Networking technologies, CCNA & CCNP</li>
+    <li>👨‍💻 Explore my networking projects: <a href="https://beacons.ai/niladridas">https://beacons.ai/niladridas</a></li>
+    <li>📝 Share insights on networking topics at <a href="https://bit.ly/3EGcdUv">https://bit.ly/3EGcdUv</a></li>
+    <li>💬 Ask me about TCP/IP, VLANs, Routing, and Network Security</li>
     <li>📫 Reach me at niladri.das@lpu.in</li>
-    <li>📄 Know about my experiences: <a href="https://shorturl.at/yMOUZ">https://shorturl.at/yMOUZ</a></li>
+    <li>📄 Check out my professional journey: <a href="https://shorturl.at/yMOUZ">https://shorturl.at/yMOUZ</a></li>
     <li>⚡ Fun fact: I'm a huge fan of ManU ⚽️</li>
   </ul>
 
@@ -51,6 +51,15 @@
         alt="ndas1262000" height="30" width="40" />
     </a>
     <!-- ... more social media links ... -->
+  </p>
+
+  <h3 align="left">Skills:</h3>
+  <p align="left">
+    <!-- ... your networking-related skills ... -->
+    <span>🔧 Network Design</span>
+    <span>🌐 Routing and Switching</span>
+    <span>🔒 Network Security</span>
+    <span>💼 Troubleshooting</span>
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
