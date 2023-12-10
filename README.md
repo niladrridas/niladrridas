@@ -37,7 +37,7 @@
     </a>
     <!-- ... other social media links ... -->
     <a href="https://www.twitter.com/niladri12_" target="_blank" rel="noreferrer">
-    <img src="https://private-user-images.githubusercontent.com/8138585/255580473-e9e13421-89cf-445b-b2e2-e50e0864789f.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyMzE1MDUsIm5iZiI6MTcwMjIzMTIwNSwicGF0aCI6Ii84MTM4NTg1LzI1NTU4MDQ3My1lOWUxMzQyMS04OWNmLTQ0NWItYjJlMi1lNTBlMDg2NDc4OWYuc3ZnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMTIxMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzEyMTBUMTgwMDA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGZkM2Y1OWM5NWM3MDZmYzUyZmIxYmIwNDFjN2NkYTdhZWZmMmQ4N2UzMjAzYTNjZWZiZDljODRlMWI1OWNmNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.TfWNkvRTuo5yzp8Eqs6AKsOoC1yGzGrkCQkOGTudmwU" alt="x" width="40" height="40" />
+    <img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="x" width="40" height="40" />
 </a> 
     <a href="https://www.hackerrank.com/ndas1262000" target="blank">
       <img align="center"
