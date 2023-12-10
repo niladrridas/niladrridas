@@ -36,7 +36,7 @@
         alt="niladri-das" height="30" width="40" />
     </a>
     <!-- ... other social media links ... -->
-    <a href="https://www.x.com" target="_blank" rel="noreferrer">
+    <a href="https://www.twitter.com/niladri12_.com" target="_blank" rel="noreferrer">
     <img src="https://private-user-images.githubusercontent.com/8138585/255580473-e9e13421-89cf-445b-b2e2-e50e0864789f.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyMjkzOTQsIm5iZiI6MTcwMjIyOTA5NCwicGF0aCI6Ii84MTM4NTg1LzI1NTU4MDQ3My1lOWUxMzQyMS04OWNmLTQ0NWItYjJlMi1lNTBlMDg2NDc4OWYuc3ZnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMTIxMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzEyMTBUMTcyNDU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MmM2MjBiMWM4YTJiOGNkYTFiMTlhNWY3ZDA3MDhlZWM1YzhlYjNlZDYxODJjYTczNjBhNjEyZmRmNGZlMDc1OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.TZBcy_CQQgvwuhm76xtecy5vJgaIlFCHjir2uAsFqDc" alt="x" width="40" height="40" />
 </a> 
     <a href="https://www.hackerrank.com/ndas1262000" target="blank">
