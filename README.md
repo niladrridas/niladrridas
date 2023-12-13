@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Network Security Architect | Hardware Developer
 -----------------------------------------------
 
-Have been actively engaged in learning electronics, communication engineering, and parallel computer science, primarily through web design on platforms like Wix and various other cloud services. Notably, I have successfully developed a powerful microprocessor with ARM architecture, which serves as a reliable and exceptional tool for programmers or hackers. In addition to my hardware development skills, I am involved in professional training, particularly with CISCO hardware. My expertise extends to troubleshooting servers and working with Linux Debian and other server operating systems in a cloud environment. My ultimate goal is to secure a position in a prominent company specializing in mainframe, quantum, or supercomputing technologies. I am enthusiastic about contributing my skills to cutting-edge advancements in the field. To pursue this dream, I am actively showcasing my achievements and skills in my resume and portfolio. I am also staying abreast of the latest industry developments and actively seeking networking opportunities within the field.
+have expanded my knowledge through courses on Coursera, specifically focusing on embedded machine learning and computer vision with hardware. These courses have equipped me with valuable insights into cutting-edge technologies, further complementing my skills in electronics, communication engineering, and parallel computer science. I am now adept at applying these learnings to real-world scenarios, making me well-prepared for challenges in the field.
+
+In addition to my coursework, I have successfully developed a powerful microprocessor with ARM architecture, providing a robust solution for programmers and hackers alike. Furthermore, my professional training involves working with CISCO hardware, server troubleshooting with Linux Debian, and managing server operating systems in a cloud environment.
+
+My goal is to secure a position in a leading company specializing in mainframe, quantum, or supercomputing technologies. I am enthusiastic about contributing my diverse skill set to advancements in these fields. To pursue this objective, I actively showcase my achievements and skills through my resume and portfolio, and I remain committed to staying updated on the latest industry developments.
 
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [niladri.das@lpu.in](mailto:niladri.das@lpu.in)
