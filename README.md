@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niladri Das
 ===================================================================================================================================
 
-Network Security Architect | Hardware Developer
+Electronics Engineer
 -----------------------------------------------
 
 Have expanded my knowledge through courses on Coursera, specifically focusing on embedded machine learning and computer vision with hardware. These courses have equipped me with valuable insights into cutting-edge technologies, further complementing my skills in electronics, communication engineering, and parallel computer science. I am now adept at applying these learnings to real-world scenarios, making me well-prepared for challenges in the field.
