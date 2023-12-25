@@ -8,14 +8,12 @@ I have expanded my knowledge through courses on Coursera, specifically focusing 
 
 In addition to my coursework, I have successfully developed a powerful microprocessor with ARM architecture, providing a robust solution for programmers and hackers alike. Furthermore, my professional training involves working with CISCO hardware, server troubleshooting with Linux Debian, and managing server operating systems in a cloud environment.
 
-My goal is to secure a position in a leading company specializing in mainframe, quantum, or supercomputing technologies. I am enthusiastic about contributing my diverse skill set to advancements in these fields. To pursue this objective, I actively showcase my achievements and skills through my resume and portfolio, and I remain committed to staying updated on the latest industry developments.
-
 If you have any specific questions or if there's anything particular you would like assistance with, please feel free to let me know!
 
-* 🌍  I'm based in Kolkata
+* 🌍  I'm based in Kolkata and react quickly to relocate.
 * ✉️  You can contact me at [niladri.das@lpu.in](mailto:niladri.das@lpu.in)
-* 🧠  I'm learning Red Hat Enterprise Linux
-* 🤝  I'm open to collaborating on Autonomous Or Self Driving Vehicle
+* 🧠  I'm learning franchising.
+* 🤝  I'm open to collaborating on maintaining functioning hardware, software and networks.
 
 ### Skills
 
