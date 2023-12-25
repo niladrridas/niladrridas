@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Architect
 -----------------------------------------------
 
+![Project Picture](https://github.com/niladrigithub/niladrigithub/blob/main/1677703253163.jpeg)
+
 I have expanded my knowledge through courses on Coursera, specifically focusing on embedded machine learning and computer vision with hardware. These courses have equipped me with valuable insights into cutting-edge technologies, further complementing my skills in electronics, communication engineering, and parallel computer science. I am now adept at applying these learnings to real-world scenarios, making me well-prepared for challenges in the field.
 
 In addition to my coursework, I have successfully developed a powerful microprocessor with ARM architecture, providing a robust solution for programmers and hackers alike. Furthermore, my professional training involves working with CISCO hardware, server troubleshooting with Linux Debian, and managing server operating systems in a cloud environment.
