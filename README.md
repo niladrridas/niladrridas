@@ -14,7 +14,7 @@
 
 ## Short Introduction
 
-Hi ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! My name is Niladri Das, a System Analyst based in India. I graduated with a Diploma in Electronics and Communication Engineering. Born on 12th June 2000, I have a passion for football.
+Hi ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! I am Niladri, a decisive and candid individual who naturally assumes leadership roles. My ability to swiftly identify and rectify illogical and inefficient procedures and policies has been pivotal in developing and implementing comprehensive systems to address organizational challenges. I find great satisfaction in engaging in long-term planning and goal-setting, leveraging my extensive knowledge and expertise. As an avid learner, I take joy in continually expanding my understanding and sharing insights with others. My enthusiasm for presenting innovative ideas is a driving force in my professional journey. Currently serving as a System Analyst based in India, I hold a Diploma in Electronics and Communication Engineering. Born on 12th June 2000, I am not only dedicated to my career but also harbour a profound passion for football.
 
 ## Education and Projects
 
@@ -31,7 +31,7 @@ Hi ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 ## Current Apprenticeship
 
-I am currently undertaking an apprenticeship at CloudNet, specializing in Hardware and Networking Engineering for a duration of 1 year.
+I am currently undertaking an apprenticeship at CloudNet, specializing in Hardware and Networking Engineering for 1 year.
 
 ## Skills
 
