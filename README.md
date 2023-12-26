@@ -1,3 +1,9 @@
+# University: Lovely Professional University
+
+
+<img align="right" alt="LPU" width="400" src="https://media.tenor.com/1O2_N0PS4_sAAAAi/lpu-lovely-professional-university.gif">
+
+
 # Niladri Das
 
 - **Occupation:** System Analyst
