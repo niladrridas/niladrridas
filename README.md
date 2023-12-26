@@ -1,4 +1,4 @@
-# University: Lovely Professional University
+# Engineering University: Lovely Professional University
 
 
 <img align="right" alt="LPU" width="400" src="https://media.tenor.com/1O2_N0PS4_sAAAAi/lpu-lovely-professional-university.gif">
