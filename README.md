@@ -63,8 +63,8 @@ I am currently undertaking an apprenticeship at CloudNet, specializing in Hardwa
 
 ## Socials
 
-- [LinkedIn](https://www.linkedin.com/in/niladri-das-b668642a3/)
-- [Twitter](https://www.twitter.com/niladri12_)
+- [Instagram](https://www.instagram.com/niladri12das)
+- [Twitter/X](https://www.twitter.com/niladri12_)
 
 ## Badges
 
