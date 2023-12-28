@@ -1,8 +1,12 @@
-# Engineering University: Lovely Professional University
+# Apprenticeship: CloudNet India
 
+Hardware A+ and Network Engineer | Certifications: CompTIA A+, CompTIA Network+, CCNA 200-301, CCNP Enterprise
 
-<img align="right" alt="LPU" width="400" src="https://media.tenor.com/1O2_N0PS4_sAAAAi/lpu-lovely-professional-university.gif">
+<img src="https://github.com/niladrigithub/niladrigithub/blob/main/CloudNet.gif" alt="GIF" width="120" height="120">
 
+# Engineering: Lovely Professional University <img align="right" alt="LPU" width="120" src="https://media.tenor.com/1O2_N0PS4_sAAAAi/lpu-lovely-professional-university.gif">
+
+Electronics and Communication Engineering | Certification: Diploma (Polytechnic)
 
 # Niladri Das
 
@@ -14,7 +18,9 @@
 
 ## Short Introduction
 
-Hi ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! I am Niladri, a decisive and candid individual who naturally assumes leadership roles. My ability to swiftly identify and rectify illogical and inefficient procedures and policies has been pivotal in developing and implementing comprehensive systems to address organizational challenges. I find great satisfaction in engaging in long-term planning and goal-setting, leveraging my extensive knowledge and expertise. As an avid learner, I take joy in continually expanding my understanding and sharing insights with others. My enthusiasm for presenting innovative ideas is a driving force in my professional journey. Currently serving as a System Analyst based in India, I hold a Diploma in Electronics and Communication Engineering. Born on 12th June 2000, I am not only dedicated to my career but also harbour a profound passion for football.
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF" width="60" height="60">
+
+Hi, I am Niladri, a decisive and candid individual who naturally assumes leadership roles. My ability to swiftly identify and rectify illogical and inefficient procedures and policies has been pivotal in developing and implementing comprehensive systems to address organizational challenges. I find great satisfaction in engaging in long-term planning and goal-setting, leveraging my extensive knowledge and expertise. As an avid learner, I take joy in continually expanding my understanding and sharing insights with others. My enthusiasm for presenting innovative ideas is a driving force in my professional journey. Currently serving as a System Analyst based in India, I hold a Diploma in Electronics and Communication Engineering. Born on 12th June 2000, I am not only dedicated to my career but also harbour a profound passion for football.
 
 ## Education and Projects
 
