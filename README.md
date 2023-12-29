@@ -10,7 +10,7 @@ Electronics and Communication Engineering | Certification: Diploma (Polytechnic)
 
 # Niladri Das
 
-- **Occupation:** System Analyst
+- **Occupation:** Software Engineering
 - **Current Location:** India
 - **Previous Qualification:** Diploma in Electronics and Communication Engineering
 - **Date of Birth:** 12th June 2000
