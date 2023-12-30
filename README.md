@@ -1,4 +1,4 @@
-# Apprenticeship: CloudNet India
+# IT Professional Course: CloudNet India
 
 Hardware A+ and Network Engineer | Certifications: CompTIA A+, CompTIA Network+, CCNA 200-301, CCNP Enterprise
 
