@@ -9,6 +9,8 @@
 ## Education
 
 - Lovely Professional University
+  - Scholarship: Category 1 (LPUNEST) 
+  - Lateral Entry: Computer Science and Engineering 
   - Degree: Electronics and Communication Engineering
   - Certification: Diploma (Polytechnic)
 
