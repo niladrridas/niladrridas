@@ -1,10 +1,9 @@
-## 👽 It all started with a dream ✨
-- Engineer, Tech-explorer, Programmer 👨🏻‍💻
-- Hobbies: Photography, Interviews 🎤
-- Favorite Video Game: FIFA, PES 🎮
+## 👽 It all started with dreams;
 
-`I wanted to become a doctor but chose to Engineer.`
+- Entry-Level in Technology {Fresher}
+- Hobbies: Teaching, Projects
+- Medium blog, YouTube post, X social
 
-`Check my bio for more information!`
+`https://linktr.ee/niladri_das for more information!`
 
-`I have no choice in any specific programming language bc I like all.`
+`Red Hat Enterprise Linux`, `Xilinx Vivado`, `VMware Fusion`, `Visual Studio Code`
