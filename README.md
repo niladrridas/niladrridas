@@ -2,7 +2,7 @@
 
 - Entry-Level in Technology {Fresher}
 - Hobbies: Teaching, Projects
-- Medium blog, YouTube post, X social
+- Medium blog, YouTube post, X Social
 
 `https://linktr.ee/niladri_das for more information!`
 
