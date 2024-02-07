@@ -42,6 +42,6 @@
 
 `Windows and Linux in Microsoft Azure`.
 
-#### Electronic & Computer Hardware, OS Project:
+#### DSP Project:
 
 `LCD` [project](https://niladrigithub.github.io/raspberry-pi-helpdesk-server/) with `Raspberry Pi 4` with `Raspbian OS, Raspbian Lite, Ubuntu`.
