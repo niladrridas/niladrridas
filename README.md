@@ -48,4 +48,4 @@
 
 #### DSP Project:
 
-`LCD` [project](https://niladrigithub.github.io/raspberry-pi-helpdesk-server/) with `Raspberry Pi 4` with `Raspbian OS, Raspbian Lite, Ubuntu`.
+`LCD` [Project](https://niladrigithub.github.io/raspberry-pi-helpdesk-server/) with `Raspberry Pi 4` with `Raspbian OS, Raspbian Lite, Ubuntu`.
