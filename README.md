@@ -1,6 +1,8 @@
 # Expertise Areas in Engineering & IT—
 
 ### COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS.
+- CompTIA A+ Syllabus
+
 ### UBUNTU LINUX ADMINISTRATION
 - How to install and configure Ubuntu Linux Server.
 - To work CLI Environment and GUI.
