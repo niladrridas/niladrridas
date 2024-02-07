@@ -1,4 +1,4 @@
-# Expertise Areas in Engineering & IT— 💻
+# Areas in Engineering & IT— 💻
 
 ### COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS.
 - CompTIA A+ Syllabus.
