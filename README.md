@@ -66,4 +66,4 @@ YouTube [@qtechsqubits](https://www.youtube.com/channel/UCBVNlNTMS8FxdwdUN9oZPsg
 
 - You can view and download it [here](https://mega.nz/file/Sy5zFbTb#5pIz5TeVuXAxfAtyNbi6Y6Qj7UUtqSjHaQtI1kWOkSA).
 
-![formal](https://github.com/niladrigithub/niladrigithub/blob/main/test/formal.jpg)
+![formal](https://raw.githubusercontent.com/niladrigithub/niladrigithub/main/test/formal.jpg)
