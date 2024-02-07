@@ -1,10 +1,10 @@
 # Experience, Skills & Expertise Areas in Engineering & IT:
 
-### COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS
+### COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS.
 ### UBUNTU LINUX ADMINISTRATION
-- How to install and configure Ubuntu Linux Server
-- To work CLI Environment and GUI
-- Work with Linux services, files, users and basic network administration
+- How to install and configure Ubuntu Linux Server.
+- To work CLI Environment and GUI.
+- Work with Linux services, files, users and basic network administration.
 
 ### Red Hat System Administration – I (Basics Covered)
 - Get started with Red Hat Enterprise Linux.
