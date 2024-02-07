@@ -1,4 +1,4 @@
-# Expertise Areas in Engineering & IT —
+# Expertise Areas in Engineering & IT—
 
 ### COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS.
 ### UBUNTU LINUX ADMINISTRATION
