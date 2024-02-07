@@ -14,7 +14,7 @@
 
 ### Red Hat System Administration – I (Basics Covered)
 - Get started with Red Hat Enterprise Linux.
-- Describe and define open source, Linux distributions, and Red Hat Enterprise Linux.
+- Describe and define the open source, Linux distributions, and Red Hat Enterprise Linux.
 - Access the command line.
 - Log into a Linux system and run simple commands using the shell.
 - Manage files from the command line.
@@ -61,3 +61,9 @@ Medium `@officialniladridas`
 #### Video-sharing Platform:
 
 YouTube [@qtechsqubits](https://www.youtube.com/channel/UCBVNlNTMS8FxdwdUN9oZPsg).
+
+#### Hello everyone! Here is my picture, Niladri Das; 
+
+- You can view and download it [here](https://mega.nz/file/Sy5zFbTb#5pIz5TeVuXAxfAtyNbi6Y6Qj7UUtqSjHaQtI1kWOkSA).
+
+![formal](https://github.com/niladrigithub/niladrigithub/blob/main/test/formal.jpg)
