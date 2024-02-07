@@ -33,3 +33,7 @@
 #### Software & OS:
 
 `Microsoft Word`, `Proteus 8`, `Keil µVision 5`, `Xilinx Vivado 2019`, `Eclipse Ubuntu`, `VMware Fusion 13`, `Visual Studio Code Mac`, `Windows 7`, `Ubuntu`, `Red Hat Enterprise Linux 9`.
+
+#### Host Deployment:
+
+`Python`, `JavaScript`, `CSS`, `HTML`
