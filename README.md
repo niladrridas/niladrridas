@@ -26,6 +26,10 @@
 - Monitor and manage Linux processes.
 - Evaluate and control processes running on a Red Hat Enterprise Linux system.
 
+#### Tools:
+
+`Soldering Gun`, `Splier`, `Multimeter`, `Voltage Tester Pen`, `VFO`, `Oscilloscope`, `Vernier Caliper`, `Weld Gauge`.
+
 #### Software & OS:
 
-`Microsoft Word`, `Proteus 8`, `Keil µVision 5`, `Xilinx Vivado 2019`, `Eclipse Ubuntu`, `VMware Fusion 13`, `Visual Studio Code Mac`, `Windows 7`, `Ubuntu`, `Red Hat Enterprise Linux 9`
+`Microsoft Word`, `Proteus 8`, `Keil µVision 5`, `Xilinx Vivado 2019`, `Eclipse Ubuntu`, `VMware Fusion 13`, `Visual Studio Code Mac`, `Windows 7`, `Ubuntu`, `Red Hat Enterprise Linux 9`.
