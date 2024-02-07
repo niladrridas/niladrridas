@@ -1,19 +1,12 @@
 # Onfield Experience, Skills & Expertise Areas in Engineering & IT:
 
-## - Computer Hardware
-## - Managing, monitoring, and maintaining virtual machine installations
-
-## UBUNTU LINUX ADMINISTRATION
-
+### COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS
+### UBUNTU LINUX ADMINISTRATION
 - How to install and configure Ubuntu Linux Server
-
 - To work CLI Environment and GUI
-
 - Work with Linux services, files, users and basic network administration
 
-`Eclipse Ubuntu, Red Hat Enterprise Linux 9`, `Xilinx Vivado 2019`, `VMware Fusion 13`, `Visual Studio Code Mac`, `Keil µVision 5`, `Proteus 8`
-
-## Red Hat System Administration – I (Basics Covered)
+### Red Hat System Administration – I (Basics Covered)
 - Get started with Red Hat Enterprise Linux.
 - Describe and define open source, Linux distributions, and Red Hat Enterprise Linux.
 - Access the command line.
@@ -31,12 +24,16 @@
 - Monitor and manage Linux processes.
 - Evaluate and control processes running on a Red Hat Enterprise Linux system.
 
-## 👽 It all started with dreams;
+### 👽 It all started with dreams;
 
 - Entry-Level in Technology {Fresher}
 - Hobbies: Teaching, Projects
 - Medium blog, YouTube post, X Social
 
-`https://linktr.ee/niladri_das for more information!`
+#### Softwares:
+
+`Eclipse Ubuntu, Red Hat Enterprise Linux 9`, `Xilinx Vivado 2019`, `VMware Fusion 13`, `Visual Studio Code Mac`, `Keil µVision 5`, `Proteus 8`
 
 Make mistakes but learn from them. Good luck.
+
+`https://linktr.ee/niladri_das for more information!`
