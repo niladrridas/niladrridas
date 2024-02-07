@@ -1,4 +1,8 @@
-# Major in Engineering & IT — 💻, 🚘
+![tactical](https://github.com/niladrigithub/niladrigithub/blob/main/tactical.gif)
+
+# Electronics and Communication Engineering Grad! 👨‍🎓
+
+## Major in Engineering & IT — 💻, 🚘
 
 ### COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS.
 - CompTIA A+ Syllabus.
