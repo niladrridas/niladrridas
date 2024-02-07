@@ -18,6 +18,15 @@
     function changeBackgroundColor(color) {
       document.body.style.backgroundColor = color;
     }
+
+    function updateTime() {
+      var currentTime = new Date();
+      var options = { timeZone: 'Asia/Kolkata', hour12: true, hour: 'numeric', minute: 'numeric', second: 'numeric' };
+      var timeString = currentTime.toLocaleTimeString('en-US', options);
+      document.getElementById('kolkataTime').innerText = 'Kolkata, Asia\'s Time: ' + timeString;
+    }
+
+    setInterval(updateTime, 1000); // Update time every second
   </script>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </head>
