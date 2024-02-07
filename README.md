@@ -24,16 +24,6 @@
 - Monitor and manage Linux processes.
 - Evaluate and control processes running on a Red Hat Enterprise Linux system.
 
-### 👽 It all started with dreams;
+#### Software & OS:
 
-- Entry-Level in Technology {Fresher}
-- Hobbies: Teaching, Projects
-- Medium blog, YouTube post, X Social
-
-#### Softwares:
-
-`Eclipse Ubuntu`, `Red Hat Enterprise Linux 9`, `Xilinx Vivado 2019`, `VMware Fusion 13`, `Visual Studio Code Mac`, `Keil µVision 5`, `Proteus 8`
-
-Make mistakes but learn from them. Good luck.
-
-`https://linktr.ee/niladri_das for more information!`
+`Microsoft Word`, `Proteus 8`, `Keil µVision 5`, `Xilinx Vivado 2019`, `Eclipse Ubuntu`, `VMware Fusion 13`, `Visual Studio Code Mac`, `Windows 7`, `Ubuntu`, `Red Hat Enterprise Linux 9`
