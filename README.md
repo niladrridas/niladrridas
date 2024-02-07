@@ -36,11 +36,11 @@
 
 #### Host Deployment:
 
-`Python`, `JavaScript`, `CSS`, `HTML`, `Nginx`
+`Python`, `JavaScript`, `CSS`, `HTML`, `Nginx`.
 
 #### VM Deployment:
 
-`Windows and Linux in Microsoft Azure`
+`Windows and Linux in Microsoft Azure`.
 
 #### Electronic & Computer Hardware, OS Project:
 
