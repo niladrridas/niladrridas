@@ -13,6 +13,11 @@
     details {
       cursor: pointer;
     }
+    .twitter-container {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+    }
   </style>
   <script>
     function changeBackgroundColor(color) {
@@ -55,10 +60,17 @@
 <!-- Clock displaying Kolkata time -->
 <p id="kolkataTime" style="font-size: 18px; margin-top: 20px;"></p>
 
-<!-- Embedded Twitter Tweet -->
-<blockquote class="twitter-tweet">
-  <a href="https://twitter.com/niladri12_/status/1755274803794317375">Your tweet content goes here.</a>
-</blockquote>
+<!-- Embedded Twitter Tweets -->
+<div class="twitter-container">
+  <!-- First Twitter Tweet -->
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/niladri12_/status/1755268540914074005">Your first tweet content goes here.</a>
+  </blockquote>
+  <!-- Second Twitter Tweet -->
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/niladri12_/status/1755268540914074005">Your second tweet content goes here.</a>
+  </blockquote>
+</div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </body>
