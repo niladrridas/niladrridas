@@ -56,4 +56,8 @@ Facebook.com/niladridas.126 \ Instagram @niladri12das \ Twitter @niladri12_ \ [L
 
 #### Blog Platform:
 
-Medium @officialniladridas
+Medium `@officialniladridas`
+
+#### Video-sharing Platform:
+
+YouTube [@qtechsqubits](https://www.youtube.com/channel/UCBVNlNTMS8FxdwdUN9oZPsg).
