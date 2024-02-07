@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive README</title>
+  <style>
+    body {
+      transition: background-color 0.5s ease;
+    }
+    details {
+      cursor: pointer;
+    }
+  </style>
+  <script>
+    function changeBackgroundColor(color) {
+      document.body.style.backgroundColor = color;
+    }
+  </script>
+</head>
+<body>
+
+<h1>Electronics and Communication Engineering Grad! 👨‍🎓</h1>
+
+<details open onclick="changeBackgroundColor('#ffffff')">
+  <summary>Default Background</summary>
+  <!-- Your content for Default Background -->
+</details>
+
+<details onclick="changeBackgroundColor('#f0f0f0')">
+  <summary>Dim Background</summary>
+  <!-- Your content for Dim Background -->
+</details>
+
+<details onclick="changeBackgroundColor('#000000')">
+  <summary>Lights Out Background</summary>
+  <!-- Your content for Lights Out Background -->
+</details>
+
+</body>
+</html>
