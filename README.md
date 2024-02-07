@@ -36,4 +36,12 @@
 
 #### Host Deployment:
 
-`Python`, `JavaScript`, `CSS`, `HTML`
+`Python`, `JavaScript`, `CSS`, `HTML`, `Nginx`
+
+#### VM Deployment:
+
+`Windows and Linux in Microsoft Azure`
+
+#### Electronic & Computer Hardware, OS Project:
+
+`LCD` with [Raspberry Pi 4](https://niladrigithub.github.io/raspberry-pi-helpdesk-server/) with `Raspbian OS, Raspbian Lite, Ubuntu`.
