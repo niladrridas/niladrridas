@@ -7,13 +7,11 @@
   <style>
     body {
       transition: background-color 0.5s ease;
-      color: black; /* Default text color */
+      background-color: black;
+      color: white;
     }
     details {
       cursor: pointer;
-    }
-    details[open] {
-      color: white; /* Text color when the details are open (for Lights Out Background) */
     }
   </style>
   <script>
@@ -21,14 +19,23 @@
       document.body.style.backgroundColor = color;
     }
   </script>
+  <script>
+    function updateTime() {
+      var currentTime = new Date();
+      var options = { timeZone: 'Asia/Kolkata', hour12: true, hour: 'numeric', minute: 'numeric', second: 'numeric' };
+      var timeString = currentTime.toLocaleTimeString('en-US', options);
+      document.getElementById('kolkataTime').innerText = 'Kolkata, Asia\'s Time: ' + timeString;
+    }
+
+    setInterval(updateTime, 1000); // Update time every second
+  </script>
 </head>
 <body>
 
 <h1>Electronics and Communication Engineering Grad! 👨‍🎓</h1>
 
-<!-- Default Background -->
-<details open onclick="changeBackgroundColor('#ffffff')">
-  <summary>Default Background</summary>
+<details open onclick="changeBackgroundColor('#000000')">
+  <summary>Lights Out Background</summary>
 
   <p>Your project description and other content go here.</p>
 
@@ -54,29 +61,8 @@
 
 </details>
 
-<!-- Dim Background -->
-<details onclick="changeBackgroundColor('#f0f0f0')">
-  <summary>Dim Background</summary>
-
-  <p>Your project description and other content go here.</p>
-
-  <img src="https://raw.githubusercontent.com/niladrigithub/niladrigithub/main/Niladri_made_for_GitHub.gif" alt="Niladri GIF">
-
-  <!-- Repeat the same structure for content as in the Default Background section -->
-
-</details>
-
-<!-- Lights Out Background -->
-<details onclick="changeBackgroundColor('#000000')">
-  <summary>Lights Out Background</summary>
-
-  <p style="color: white;">Your project description and other content go here.</p>
-
-  <img src="https://raw.githubusercontent.com/niladrigithub/niladrigithub/main/Niladri_made_for_GitHub.gif" alt="Niladri GIF">
-
-  <!-- Repeat the same structure for content as in the Default Background section -->
-
-</details>
+<!-- Clock displaying Kolkata time -->
+<p id="kolkataTime" style="font-size: 18px; margin-top: 20px;"></p>
 
 </body>
 </html>
