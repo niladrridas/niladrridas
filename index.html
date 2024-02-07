@@ -7,9 +7,13 @@
   <style>
     body {
       transition: background-color 0.5s ease;
+      color: black; /* Default text color */
     }
     details {
       cursor: pointer;
+    }
+    details[open] {
+      color: white; /* Text color when the details are open (for Lights Out Background) */
     }
   </style>
   <script>
@@ -26,11 +30,27 @@
 <details open onclick="changeBackgroundColor('#ffffff')">
   <summary>Default Background</summary>
 
-  <!-- Your project description and other content go here. -->
+  <p>Your project description and other content go here.</p>
 
   <img src="https://raw.githubusercontent.com/niladrigithub/niladrigithub/main/Niladri_made_for_GitHub.gif" alt="Niladri GIF">
 
-  <!-- Repeat the same structure for content as in the Default Background section -->
+  <h3>COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS.</h3>
+  <ul>
+    <li>CompTIA A+ Syllabus.</li>
+  </ul>
+
+  <h3>UBUNTU LINUX ADMINISTRATION</h3>
+  <ul>
+    <li>How to install and configure Ubuntu Linux Server.</li>
+    <li>To work in CLI Environment and GUI.</li>
+    <li>Work with Linux services, files, users, and basic network administration.</li>
+  </ul>
+
+  <h4>Tools:</h4>
+  <p>`Soldering Gun`, `Splier`, `Multimeter`, `Voltage Tester Pen`, `VFO`, `Oscilloscope`, `Vernier Caliper`, `Weld Gauge`.</p>
+
+  <h4>Software & OS:</h4>
+  <p>`Microsoft Word`, `Proteus 8`, `Keil µVision 5`, `Xilinx Vivado 2019`, `Eclipse Ubuntu`, `VMware Fusion 13`, `Visual Studio Code Mac`, `Windows 7`, `Ubuntu`, `Red Hat Enterprise Linux 9`.</p>
 
 </details>
 
@@ -38,7 +58,7 @@
 <details onclick="changeBackgroundColor('#f0f0f0')">
   <summary>Dim Background</summary>
 
-  <!-- Your project description and other content go here. -->
+  <p>Your project description and other content go here.</p>
 
   <img src="https://raw.githubusercontent.com/niladrigithub/niladrigithub/main/Niladri_made_for_GitHub.gif" alt="Niladri GIF">
 
@@ -50,7 +70,7 @@
 <details onclick="changeBackgroundColor('#000000')">
   <summary>Lights Out Background</summary>
 
-  <!-- Your project description and other content go here. -->
+  <p style="color: white;">Your project description and other content go here.</p>
 
   <img src="https://raw.githubusercontent.com/niladrigithub/niladrigithub/main/Niladri_made_for_GitHub.gif" alt="Niladri GIF">
 
