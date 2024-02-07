@@ -1,4 +1,4 @@
-![tactical_view_on_GitHub.gif](https://github.com/niladrigithub/niladrigithub/blob/main/tactical_view_on_GitHub.gif.gif)
+![Please check GitHub for review](https://github.com/niladrigithub/niladrigithub/blob/main/Niladri_made_for_GitHub.gif)
 
 # Electronics and Communication Engineering Grad! 👨‍🎓
 
