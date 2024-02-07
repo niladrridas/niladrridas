@@ -44,4 +44,4 @@
 
 #### Electronic & Computer Hardware, OS Project:
 
-`LCD` with [Raspberry Pi 4](https://niladrigithub.github.io/raspberry-pi-helpdesk-server/) with `Raspbian OS, Raspbian Lite, Ubuntu`.
+`LCD` [project](https://niladrigithub.github.io/raspberry-pi-helpdesk-server/) with Raspberry Pi 4 with `Raspbian OS, Raspbian Lite, Ubuntu`.
