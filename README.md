@@ -1,4 +1,4 @@
-# Areas in Engineering & IT— 💻
+# Fields in Engineering & IT— 💻
 
 ### COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS.
 - CompTIA A+ Syllabus.
