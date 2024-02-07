@@ -1,4 +1,4 @@
-# Major in Engineering & IT— 💻
+# Major in Engineering & IT — 💻
 
 ### COMPUTER HARDWARE, MANAGING, MONITORING, and MAINTAINING VIRTUAL MACHINE INSTALLATIONS.
 - CompTIA A+ Syllabus.
