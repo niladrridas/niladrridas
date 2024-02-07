@@ -40,7 +40,7 @@
 
 #### Host Deployment:
 
-`Python`, `JavaScript`, `CSS`, `HTML`, `Nginx`.
+`Python`, `JavaScript`, `CSS`, `HTML`, `Nginx`, [GitHub](https://github.com/niladrigithub).
 
 #### VM Deployment:
 
@@ -49,3 +49,11 @@
 #### DSP Project:
 
 `LCD` [Project](https://niladrigithub.github.io/raspberry-pi-helpdesk-server/) with `Raspberry Pi 4` with `Raspbian OS, Raspbian Lite, Ubuntu`.
+
+#### Social Accounts:
+
+Facebook.com/niladridas.126 \ Instagram @niladri12das \ Twitter @niladri12_ \ [LinkedIn](www.linkedin.com/in/niladri-das-4a8b3128b).
+
+#### Blog Platform:
+
+Medium @officialniladridas
