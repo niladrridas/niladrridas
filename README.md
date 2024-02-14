@@ -1,7 +1,8 @@
 ### Niladri Das
 
 - Desktop Support Engineer ‍
-- Major in Engineering & IT ,
+- Major in Repairing Engineering & IT Topology
+- Single-board-computer complete installation (CLI)
 
 ### Technical Skills:
 
@@ -23,4 +24,8 @@
 
 ### About Me:
 
-I am a Desktop Support Engineer with a background in Engineering & IT. I have experience in hardware repair, software support, scripting, and cloud deployments. I am also passionate about creating technical content and sharing my knowledge through various platforms.
+I am a Desktop Support Engineer with 2 years of a background in Electronics and IT domains. I have experience in hardware repair, software support (VM), scripting, and cloud deployments. I am also passionate about creating technical content and sharing my knowledge through various platforms.
+
+### About Me:
+
+[My email](mailto:niladri.das@lpu.in)
