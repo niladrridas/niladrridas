@@ -1,8 +1,10 @@
 # Hello, World!
 
 This is my GitHub profile.
+
+## Lovely Professional University Alumni 
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I have graduated at LPU and I'm creative with programming languages.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am creative with programming languages.
 </h1>
 
 ## :woman_technologist: About Me :
