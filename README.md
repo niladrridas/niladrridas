@@ -1,10 +1,8 @@
 # Hello, World!
 
 This is my GitHub profile.
-
-## hey there
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I have graduated at LPU and I'm creative with programming languages.
 </h1>
 
 ## :woman_technologist: About Me :
@@ -14,7 +12,7 @@ I am a Network Engineer from India.
 - I am currently working on improving my skills in network architecture design.
 
 ## Languages and Tools:
-Bash, Linux
+Bash, Linux, VMware, Packet Tracer
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
