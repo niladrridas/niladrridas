@@ -4,7 +4,7 @@ This is my GitHub profile.
 
 ## Lovely Professional University Alumni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h1>
-  I am creative with programming languages and motivated with hardware.
+  I am creative with programming languages and motivated with network
 </h1>
 
 ## :woman_technologist: About Me :
