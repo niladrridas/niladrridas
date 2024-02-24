@@ -8,7 +8,7 @@ I am a Network Engineer from India.
 - I am currently working on improving my skills in Linux, network architecture design.
 
 ## Some skills :
-Application, Bash, Linux, VMware, Cisco Packet Tracer
+Application, Bash, Linux, VMware, Cisco Packet Tracer, Typing in mechanical keyboard
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
