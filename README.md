@@ -25,6 +25,9 @@ Bash, Linux, VMware, Packet Tracer
   <a href="https://x.com/niladrridas">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="mailto:niladri.das@lpu.in">
+    <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </div>
 
 ## Blog Posts :
