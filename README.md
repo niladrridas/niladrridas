@@ -11,7 +11,7 @@ This is my GitHub profile.
 I am a Network Engineer from India.
 
 - I am a fast learner and love to face and solve new challenges.
-- I am currently working on improving my skills in network architecture design.
+- I am currently working on improving my skills in Linux, network architecture design.
 
 ## Languages and Tools:
 Bash, Linux, VMware, Packet Tracer
