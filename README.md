@@ -1,19 +1,13 @@
 # Hello, World!
-
-This is my GitHub profile.
-
-## Lovely Professional University Alumni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<h1>
   I am creative with programming languages and motivated with network
-</h1>
 
-## :woman_technologist: About Me :
+## About Me :
 I am a Network Engineer from India.
 
 - I am a fast learner and love to face and solve new challenges.
 - I am currently working on improving my skills in Linux, network architecture design.
 
-## Languages and Tools:
+## Some skills:
 Bash, Linux, VMware, Packet Tracer
 
 <div align="center">
@@ -22,20 +16,17 @@ Bash, Linux, VMware, Packet Tracer
 
 ## Connect with me:
 <div id="badges">
-  <a href="https://in.linkedin.com/in/niladri-d-4a8b3128b">
+  <a href="https://in.linkedin.com/in/niladrridas">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://youtube.com/@qtechsqubits?si=SaC3ni3aPF7tL361">
+  <a href="https://youtube.com/@niladrridas">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://x.com/niladri12_?t=NRkG_Ml7LN0U1McoZ1Prvg&s=09">
+  <a href="https://x.com/niladrridas">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-## :writing_hand: Blog Posts :
+## Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-You can find the latest blog posts at [officialniladridas.medium.com](https://officialniladridas.medium.com)
+Find the latest updates here at [niladridas.co.in](https://niladridas.co.in) 🤝
