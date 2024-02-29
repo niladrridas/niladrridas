@@ -2,13 +2,13 @@
   I am creative with programming languages and motivated with network
 
 ## About Me :
-I am a Network Engineer from India.
+I am a Hard-core Engineer from India loves Microprocessors.
 
 - I am a fast learner and love to face and solve new challenges.
 - I am currently working on improving my skills in Linux, network architecture design.
 
 ## Some skills :
-Application, Bash, Linux, VMware, Cisco Packet Tracer, Typing in mechanical keyboard
+Application, Python, Bash, Linux, VMware, Cisco Packet Tracer, Typing in mechanical keyboard
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
