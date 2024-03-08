@@ -1,15 +1,3 @@
-# Hello, World!
-  I am creative with programming languages and motivated with network
-
-## About Me :
-I am a Hard-core Engineer from India loves Microprocessors.
-
-- I am a fast learner and love to face and solve new challenges.
-- I am currently working on improving my skills in Linux, network architecture design.
-
-## Some skills :
-Application, Python, Bash, Linux, VMware, Cisco Packet Tracer, Typing in mechanical keyboard
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -30,6 +18,6 @@ Application, Python, Bash, Linux, VMware, Cisco Packet Tracer, Typing in mechani
   </a>
 </div>
 
-## Blog Posts :
+## Domain :
 
-Find the latest updates here at [niladridas.co.in](https://niladridas.co.in) 🤝
+Find the news on web [niladridas.co.in](https://niladridas.co.in)
