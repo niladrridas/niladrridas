@@ -1,4 +1,4 @@
-## Cloud Solutions :
+## Cloud/VM Solutions :
 <div align="center">
   <img src="https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/media/serial-console-grub-single-user-mode/restart-button-ubuntu.gif" width="600" height="300" alt="Restart Button on Ubuntu"/>
 </div>
