@@ -22,3 +22,13 @@
 ## Domain :
 
 Find the news on web [niladridas.co.in](https://niladridas.co.in)
+
+## ElecCalc - Electrical Engineering Software
+
+ElecCalc is a versatile software tool designed for electrical engineers and enthusiasts to solve a wide range of electrical engineering problems. It offers powerful functionality for circuit analysis, component calculations, transient and frequency domain analysis, as well as fault diagnosis. With ElecCalc, users can efficiently analyze circuits, calculate parameters, simulate time-varying behavior, and identify faults within electrical systems.
+
+## Programming Languages Used
+
+The ElecCalc project on GitHub utilizes the following programming languages:
+
+- C: 100%
