@@ -97,7 +97,7 @@ If you'd like to learn more about me or work together on an exciting project, pl
 
 
 
-<h3 align="left">Operating System:</h3>
+<h3 align="left">Operating System & Technology:</h3>
 <p align="left">
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width="40" height="40"/>
