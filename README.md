@@ -97,23 +97,6 @@ If you'd like to learn more about me or work together on an exciting project, pl
 
 
 
-<h3 align="left">Operating System & Technology:</h3>
-<p align="left">
-    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width="40" height="40"/>
-    </a>
-    <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="Red Hat" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-    </a>
-</p>
-
-
 <h3 align="left">Engineering:</h3>
 <p align="left">
     <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
@@ -127,5 +110,24 @@ If you'd like to learn more about me or work together on an exciting project, pl
     </a>
     <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Packet Tracer" width="40" height="40"/>
+    </a>
+</p>
+
+
+
+
+<h3 align="left">Operating System & Technology:</h3>
+<p align="left">
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width="40" height="40"/>
+    </a>
+    <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="Red Hat" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
     </a>
 </p>
