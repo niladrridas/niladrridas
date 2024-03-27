@@ -118,7 +118,7 @@ If you'd like to learn more about me or work together on an exciting project, pl
     <img src="https://github.com/niladrridas/niladrridas/blob/main/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"/>
     </a>
     <a href="https://www.keil.com/demo/eval/arm.htm" target="_blank" rel="noreferrer">
-    <img src="https://github.com/niladrridas/niladrridas/blob/main/keil%20uvision%205%20logo.jpeg" alt="Keil uVision" width="40" height="40"/>
+    <img src="https://github.com/niladrridas/niladrridas/blob/main/keil%20uvision%205%20logo.png" alt="Keil uVision" width="40" height="40"/>
     </a>
 </p>
 
