@@ -111,6 +111,9 @@ If you'd like to learn more about me or work together on an exciting project, pl
     <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Packet Tracer" width="40" height="40"/>
     </a>
+    <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png" alt="Xilinx Vivado" width="40" height="40"/>
+    </a>
 </p>
 
 
