@@ -114,6 +114,12 @@ If you'd like to learn more about me or work together on an exciting project, pl
     <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png" alt="Xilinx Vivado" width="40" height="40"/>
     </a>
+    <a href="https://www.labcenter.com/solutions/vsm-overview/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/niladrridas/niladrridas/blob/main/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"/>
+    </a>
+    <a href="https://www.keil.com/demo/eval/arm.htm" target="_blank" rel="noreferrer">
+    <img src="https://github.com/niladrridas/niladrridas/blob/main/keil%20uvision%205%20logo.jpeg" alt="Keil uVision" width="40" height="40"/>
+    </a>
 </p>
 
 
@@ -121,8 +127,14 @@ If you'd like to learn more about me or work together on an exciting project, pl
 
 <h3 align="left">Operating System & Technology:</h3>
 <p align="left">
+    <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/niladrridas/niladrridas/blob/main/MacOS_logo.svg.png" alt="macOS" width="40" height="40"/>
+    </a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width="40" height="40"/>
+    </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/niladrridas/niladrridas/blob/main/ubuntu_logo.png" alt="Ubuntu" width="40" height="40"/>
     </a>
     <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="Red Hat" width="40" height="40"/>
@@ -132,5 +144,8 @@ If you'd like to learn more about me or work together on an exciting project, pl
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+    </a>
+    <a href="https://www.raspberrypi.org/downloads/raspberry-pi-os/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/niladrridas/niladrridas/blob/main/raspberry-pi.png" alt="Raspbian" width="40" height="40"/>
     </a>
 </p>
