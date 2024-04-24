@@ -25,4 +25,4 @@ Projects completed in :
 - ![TextBlob](https://img.shields.io/badge/-TextBlob-009688?style=flat-square&logo=python&logoColor=white)
 - ![gTTS](https://img.shields.io/badge/-gTTS-009688?style=flat-square&logo=python&logoColor=white)
 - ![playsound](https://img.shields.io/badge/-playsound-009688?style=flat-square&logo=python&logoColor=white)
-
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
