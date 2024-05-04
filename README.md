@@ -1,4 +1,4 @@
-![](https://github.com/niladrridas/niladrridas/blob/main/GitHub-Niladri-README.png)
+![](https://github.com/niladrridas/niladrridas/blob/main/GitHub-Niladri-VSCODE-README.png)
 
 # Root Mean Squared Error (RMSE) 💻 
 
