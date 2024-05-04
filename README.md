@@ -1,6 +1,8 @@
 ![](https://github.com/niladrridas/niladrridas/blob/main/GitHub-Niladri-VSCODE-README.png)
 
-# Root Mean Squared Error (RMSE) 💻 
+# Article
+
+## Root Mean Squared Error (RMSE) 💻 
 
 In the graph, the training loss and validation loss twin decreases as the number of epochs increases. This means the model learns from the training data and improves its performance.
 #machinelearning #coding #python #deeplearning
