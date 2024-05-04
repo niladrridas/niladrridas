@@ -73,4 +73,4 @@ Root Mean Squared Error (RMSE) describes the cornerstone metric in predictive mo
 
 In conclusion, mastering RMSE transcends theoretical comprehension; it embodies a strategic imperative for data-driven decision-making in today's dynamic landscape.
 
-"RMSE encapsulates the essence of model accuracy, guiding us towards data-driven decisions and actionable insights." - Anonymous
+*"RMSE encapsulates the essence of model accuracy, guiding us towards data-driven decisions and actionable insights." - Anonymous*
