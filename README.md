@@ -1,44 +1,57 @@
-# Project Title
+![NetworkMonitor.png](https://github.com/niladrridas/network-monitor/blob/main/data/NetworkMonitor.png)
 
-One Paragraph of project description goes here
+# Network Monitor
+
+The Network Monitor project is a software tool designed to monitor network traffic, analyze data packets, detect anomalies, and provide insights into network performance. It offers real-time visualization of network activity and generates reports to help administrators troubleshoot issues and optimize network efficiency.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+These instructions will guide you to set up the project on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+- Python 3.12
+- Wireshark (for packet capturing)
+- Matplotlib (for data visualization)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+1. Clone the repository from GitHub:
+```
+git clone https://github.com/niladrridas/network-monitor.git
+```
 
-And repeat
+2. Install required Python packages:
+```
+pip install -r requirements.txt
+```
 
-End with an example of getting some data out of the system or using it for a little demo
+3. Ensure Wireshark is installed and configured for packet capturing.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+To run automated tests for this system, execute the following command:
+```
+python3 run_tests.py
+```
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
+The automated tests validate various functionalities of the network monitoring tool, including packet capturing, data analysis, and report generation.
 
 ### And coding style tests
 
-Explain what these tests test and why
+Coding style tests ensure adherence to PEP 8 standards and maintain code readability.
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Additional notes on deploying the Network Monitor on a live system will be provided soon.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python 3.12 | macOS](https://www.python.org/ftp/python/3.12.3/python-3.12.3-macos11.pkg) - Programming language used for development
+* [Wireshark](https://www.wireshark.org) - Packet capturing tool
+* [Matplotlib](https://pypi.org/project/matplotlib/) - Data visualization library
 
 ## Contributing
 
@@ -50,16 +63,15 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourGithubUsername](https://github.com/YourGithubUsername)
+* **Niladri Das** - *Initial work* - [niladrridas](https://github.com/niladrridas)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/niladrridas/network-monitor/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip to the developers of Wireshark and Matplotlib for their invaluable contributions.
+* Inspiration drawn from the need for efficient network monitoring solutions in modern IT environments.
