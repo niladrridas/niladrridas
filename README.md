@@ -23,6 +23,13 @@ Hi! I'm a passionate developer with a diverse skill set in modern web technologi
 
 - **Agile**: Experienced in agile methodology, including Scrum and Kanban. Capable of working in fast-paced environments, adapting to changing requirements, and delivering high-quality results on time.
 
+## Automation Demo
+
+Here is an example of an automation process I worked on, showing the stages of coding, deployment, and output:
+
+![Automation Process](assets/automation.svg#gh-dark-mode-only)
+![Automation Process](assets/automation.svg#gh-light-mode-only)
+
 ## Projects
 
 Check out some of my projects to see my skills in action:
