@@ -1,77 +1,41 @@
-![NetworkMonitor.png](https://github.com/niladrridas/network-monitor/blob/main/data/NetworkMonitor.png)
+# Welcome to My GitHub Profile
 
-# Network Monitor
+## About Me
 
-The Network Monitor project is a software tool designed to monitor network traffic, analyze data packets, detect anomalies, and provide insights into network performance. It offers real-time visualization of network activity and generates reports to help administrators troubleshoot issues and optimize network efficiency.
+Hi! I'm a passionate developer with a diverse skill set in modern web technologies, programming, and development methodologies. I thrive in agile environments and am always eager to take on new challenges. Here’s a brief overview of my key skills and expertise:
 
-## Getting Started
+## Key Skills
 
-These instructions will guide you to set up the project on your local machine for development and testing purposes.
+### Programming Languages & Tools
 
-### Prerequisites
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
 
-- Python 3.12
-- Wireshark (for packet capturing)
-- Matplotlib (for data visualization)
+## Development Methodologies
 
-### Installing
+- **Agile**: Experienced in agile methodology, including Scrum and Kanban. Capable of working in fast-paced environments, adapting to changing requirements, and delivering high-quality results on time.
 
-1. Clone the repository from GitHub:
-```
-git clone https://github.com/niladrridas/network-monitor.git
-```
+## Projects
 
-2. Install required Python packages:
-```
-pip install -r requirements.txt
-```
+Check out some of my projects to see my skills in action:
+- [Face Recognition](https://github.com/niladrridas/face-recognition-webcam)
+- [Voice Assistant Chatbot](https://github.com/niladrridas/voice-assistant-chatbot)
+- [Pocket PC](https://github.com/niladrridas/Smart-Portable-Computer)
 
-3. Ensure Wireshark is installed and configured for packet capturing.
+Feel free to explore my repositories for more examples of my work and contributions.
 
-## Running the tests
+## Connect with Me
 
-To run automated tests for this system, execute the following command:
-```
-python3 run_tests.py
-```
+- [LinkedIn](https://linkedIn.com/in/niladrridas)
+- [X](https://twitter.com/niladrridas)
+- [Email](mailto:ndas1262000@gmail.com)
 
-### Break down into end to end tests
-
-The automated tests validate various functionalities of the network monitoring tool, including packet capturing, data analysis, and report generation.
-
-### And coding style tests
-
-Coding style tests ensure adherence to PEP 8 standards and maintain code readability.
-
-## Deployment
-
-Additional notes on deploying the Network Monitor on a live system will be provided soon.
-
-## Built With
-
-* [Python 3.12 | macOS](https://www.python.org/ftp/python/3.12.3/python-3.12.3-macos11.pkg) - Programming language used for development
-* [Wireshark](https://www.wireshark.org) - Packet capturing tool
-* [Matplotlib](https://pypi.org/project/matplotlib/) - Data visualization library
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Niladri Das** - *Initial work* - [niladrridas](https://github.com/niladrridas)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/niladrridas/network-monitor/blob/main/LICENSE) file for details.
-
-## Acknowledgments
-
-* Hat tip to the developers of Wireshark and Matplotlib for their invaluable contributions.
-* Inspiration drawn from the need for efficient network monitoring solutions in modern IT environments.
+Thank you for visiting my profile!
