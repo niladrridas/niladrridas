@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm a passionate developer from a background of [LPU](https://lpu.in) with a diverse skill set in LLMs, APIs, modern web technologies, programming, and development methodologies. I thrive in trends eg. Kubernetes, Ansible also agile environments and am always eager to take on new challenges. Here’s a brief overview of my key skills and expertise:
+Hi! I'm a dynamic and passionate developer with a solid foundation from [LPU](https://lpu.in), wielding a diverse skill set in LLMs, APIs, modern web technologies, programming, and cutting-edge development methodologies. I excel in leveraging the latest trends like Kubernetes and Ansible, and thrive in agile environments, always eager to conquer new challenges. Here’s a powerful overview of my key skills and expertise:
 
 ## Key Skills
 
