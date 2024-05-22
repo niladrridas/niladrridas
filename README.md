@@ -1,5 +1,3 @@
-
-
 ## Introduction
 
 Hi! I'm a dynamic and passionate developer with a solid foundation from [LPU](https://lpu.in), wielding a diverse skill set in LLMs, APIs, modern web technologies, programming and cutting-edge development methodologies. I active in leveraging the latest trends like [Kubernetes](https://kubernetes.io/) and [Ansible](https://www.ansible.com/), pro [Red Hat Enterprise Linux](https://www.redhat.com/en) and provoke in agile environments, always eager to conquer new challenges. 
@@ -73,7 +71,6 @@ Here’s a powerful overview of my key skills and expertise:
   <img src="https://img.shields.io/badge/-HTTP-0056D2?style=flat-square&logo=http&logoColor=white" alt="HTTP"/>
 </p>
 
-
 ## Development Methodologies
 
 - **Agile**: Experienced in agile methodology, including Scrum and Kanban. Capable of working in fast-paced environments, adapting to changing requirements, and delivering high-quality results on time.
@@ -92,7 +89,9 @@ Check out some of my projects to see my skills in action:
 - [Voice Assistant Chatbot](https://github.com/niladrridas/voice-assistant-chatbot)
 - [Pocket PC](https://github.com/niladrridas/Smart-Portable-Computer)
 
-Feel free to explore my repositories for more examples of my work and contributions.
+## Publication
+
+- [Link](https://arxiv.org/abs/2405.05292)
 
 ## Connect with Me
 
@@ -100,4 +99,4 @@ Feel free to explore my repositories for more examples of my work and contributi
 - [X](https://twitter.com/niladrridas)
 - [Email](mailto:ndas1262000@gmail.com)
 
-Thank you for visiting my profile!
+Thank you for visiting my profile! Stay logged in knowing eachothers, Cheers!
