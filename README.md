@@ -1,3 +1,5 @@
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niladrridas&layout=compact)](https://github.com/niladrridas)
+
 ## Introduction
 
 Hi! I'm a dynamic and passionate developer with a solid foundation from microprocessor, wielding a diverse skill set in ML, command-line-interface, programming. I active in leveraging the latest trends like [Kubernetes](https://kubernetes.io/) and [Ansible](https://www.ansible.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en) and simulating networks in [Cisco Packet Traccer](https://www.netacad.com/courses/packet-tracer), [GNS3](https://www.gns3.com), always eager to conquer new challenges. 
