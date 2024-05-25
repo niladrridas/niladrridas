@@ -23,13 +23,13 @@ Here’s a powerful overview of my key skills and expertise:
 <p align="left">
 <p align="left">
   <!-- Python Badge -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
 
   <!-- Matplotlib Badge -->
   <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" />
 
   <!-- Numpy Badge -->
-  <img src="https://img.shields.io/badge/-Numpy-3776AB?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
 
   <!-- Plotly Badge -->
   <img src="https://img.shields.io/badge/-Plotly-3776AB?style=flat-square&logo=plotly&logoColor=white" />
@@ -37,14 +37,23 @@ Here’s a powerful overview of my key skills and expertise:
   <!-- PyTorch Badge -->
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 
+  <!-- scikit-learn Badge -->
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
+  
   <!-- TensorFlow Badge -->
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+
+  <!-- Pandas Badge -->
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
 
   <!-- OpenAI Badge -->
   <img src="https://img.shields.io/badge/-OpenAI-00FF00?style=flat-square&logo=openai&logoColor=white" />
 
   <!-- OpenCV Badge -->
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+
+  <!-- Jupyter Notebook Badge -->
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white"/>
 
   <!-- SpaCy Badge -->
   <img src="https://img.shields.io/badge/-SpaCy-09a3d5?style=flat-square&logo=spacy&logoColor=white" />
@@ -69,6 +78,10 @@ Here’s a powerful overview of my key skills and expertise:
 
   <!-- HTTP Badge -->
   <img src="https://img.shields.io/badge/-HTTP-0056D2?style=flat-square&logo=http&logoColor=white" alt="HTTP"/>
+
+  <!-- VSCode Badge -->
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white"/>
+ 
 </p>
 
 ## Development Methodologies
