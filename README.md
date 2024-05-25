@@ -14,7 +14,7 @@ Here’s a powerful overview of my key skills and expertise:
 - _Machine Learning Fundamentals: Supervised and Unsupervised learning, Evaluation techniques, and more_
 - _Deep Learning and Neural Networks: Neural Network Fundamentals, Deep learning algorithms, frameworks, and tools_
 - _Specialized Topics in AI and ML: Natural Language Processing (NLP), Computer Vision, Large Language Models (LLMs)_
-- _[Capstone project1](https://github.com/niladrridas/sentiment-analysis-naive-bayes)_
+- _[Capstone project1](https://github.com/niladrridas/sentiment-analysis-naive-bayes)_, [Capstone project2](https://github.com/niladrridas/Hybrid-Movie-Recommendation-System)
 
 ## Key Skills
 
