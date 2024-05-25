@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi! I'm a dynamic and passionate developer with a solid foundation from [LPU](https://lpu.in), wielding a diverse skill set in LLMs, APIs, modern web technologies, programming and cutting-edge development methodologies. I active in leveraging the latest trends like [Kubernetes](https://kubernetes.io/) and [Ansible](https://www.ansible.com/), pro [Red Hat Enterprise Linux](https://www.redhat.com/en) and provoke in agile environments, always eager to conquer new challenges. 
+Hi! I'm a dynamic and passionate developer with a solid foundation from microprocessor, wielding a diverse skill set in ML, command-line-interface, programming. I active in leveraging the latest trends like [Kubernetes](https://kubernetes.io/) and [Ansible](https://www.ansible.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en) and simulating networks in [Cisco Packet Traccer](https://www.netacad.com/courses/packet-tracer), [GNS3](https://www.gns3.com), always eager to conquer new challenges. 
 
 Here’s a powerful overview of my key skills and expertise:
 
