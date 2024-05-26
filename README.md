@@ -10,7 +10,7 @@ He is a dynamic and passionate developer with a foundation from coursework in th
 
 He actively leveraging latest trends from his IT Training at Cloudnet Institute of Information Technology Pvt. Ltd. in [Red Hat Enterprise Linux](https://www.redhat.com/en) and networking simulation in [Cisco Packet Traccer](https://www.netacad.com/courses/packet-tracer), [GNS3](https://www.gns3.com).
 
-Here’s a powerful overview of his key skills and expertise now in IIT:
+Here’s a powerful overview of his key skills and expertise now in IIT Mandi:
 
 **Minor in Data Science and Machine Learning:**
 
