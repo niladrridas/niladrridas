@@ -105,7 +105,7 @@ Here is an example of an automation process he worked on, showing the stages of 
 
 ## Projects
 
-Check out some of my projects to see my skills in action:
+Check out some of his projects to see his skills in action:
 - [Face Recognition](https://github.com/niladrridas/face-recognition-webcam)
 - [Voice Assistant Chatbot](https://github.com/niladrridas/voice-assistant-chatbot)
 - [Pocket PC](https://github.com/niladrridas/Smart-Portable-Computer)
