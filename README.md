@@ -98,7 +98,7 @@ Here’s a powerful overview of his key skills and expertise now in IIT Mandi:
 
 ## Automation Demo
 
-Here is an example of an automation process I worked on, showing the stages of coding, deployment, and output:
+Here is an example of an automation process he worked on, showing the stages of coding, deployment and output:
 
 ![Automation Process](assets/automation.svg#gh-dark-mode-only)
 ![Automation Process](assets/automation.svg#gh-light-mode-only)
@@ -109,9 +109,5 @@ Check out some of my projects to see my skills in action:
 - [Face Recognition](https://github.com/niladrridas/face-recognition-webcam)
 - [Voice Assistant Chatbot](https://github.com/niladrridas/voice-assistant-chatbot)
 - [Pocket PC](https://github.com/niladrridas/Smart-Portable-Computer)
-
-## Social media
-
-- [X](https://twitter.com/niladrridas)
 
 Thank you for visiting Niladri's profile!
