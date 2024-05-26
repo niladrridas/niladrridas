@@ -112,6 +112,5 @@ Check out some of my projects to see my skills in action:
 
 - [LinkedIn](https://linkedIn.com/in/niladrridas)
 - [X](https://twitter.com/niladrridas)
-- [Email](mailto:ndas1262000@gmail.com)
 
-Thank you for visiting my profile! Stay logged in knowing eachothers, Cheers!
+Thank you for visiting my profile!
