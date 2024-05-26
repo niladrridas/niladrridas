@@ -4,7 +4,7 @@
 
 Niladri Das is born in Kolkata, when he grown up learnt to figure out DC motor as part of remote control toys. He completed high schools in collective pure science. In 2019, he started Engineering Diploma seat in Lovely Professional University. 
 
-He given his interest in Electronics & Communication Engineering and published his major project in [Raspberry Pi](https://arxiv.org/abs/2405.05292) with skills in computer he choosen further education in B.Tech. Computer Science and Engineering. As part of his university, he collaborated with Aerospace domain to make Cube Satellite and VTOL UAV. Later, he managed his teammates into Smart India Hackathon. 
+He given his interest in Electronics & Communication Engineering and published his major project in [Raspberry Pi](https://arxiv.org/abs/2405.05292) with skills in computer he choosen further education in Lateral entry with top-tier scholarship for B.Tech. Computer Science and Engineering. As part of his university, he collaborated with Aerospace domain to make Cube Satellite and VTOL UAV. Later, he managed his teammates into Smart India Hackathon. 
 
 He is a dynamic and passionate developer with a foundation from coursework in the microprocessor, diverse skill set in ML, command-line-interface, programming. 
 
