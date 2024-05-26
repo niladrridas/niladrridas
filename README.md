@@ -2,9 +2,11 @@
 
 ## Introduction
 
-Hi! I'm a dynamic and passionate developer with a solid foundation from microprocessor, wielding a diverse skill set in ML, command-line-interface, programming. I active in leveraging the latest trends like [Kubernetes](https://kubernetes.io/) and [Ansible](https://www.ansible.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en) and simulating networks in [Cisco Packet Traccer](https://www.netacad.com/courses/packet-tracer), [GNS3](https://www.gns3.com), always eager to conquer new challenges. 
+Niladri Das is born in Kolkata, when he grown up learnt to figure out DC motor as part of remote control toys. He completed high schools in collective pure science. In 2019, he started Engineering Diploma seat in Lovely Professional University. He given his interest in Electronics & Communication Engineering and published his major project in [Raspberry Pi](https://arxiv.org/abs/2405.05292) with skills in computer he choosen further education in B.Tech. Computer Science and Engineering. As part of his university, he collaborated with Aerospace domain to make Cube Satellite and VTOL UAV. Later, he managed his teammates into Smart India Hackathon. 
 
-Here’s a powerful overview of my key skills and expertise:
+He is a dynamic and passionate developer with a foundation from coursework in the microprocessor, diverse skill set in ML, command-line-interface, programming. He actively leveraging the latest trends like [Kubernetes](https://kubernetes.io/) and [Ansible](https://www.ansible.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en) and simulating networks in [Cisco Packet Traccer](https://www.netacad.com/courses/packet-tracer), [GNS3](https://www.gns3.com).
+
+Here’s a powerful overview of his key skills and expertise now in IIT:
 
 **Minor in Data Science and Machine Learning:**
 
@@ -104,13 +106,8 @@ Check out some of my projects to see my skills in action:
 - [Voice Assistant Chatbot](https://github.com/niladrridas/voice-assistant-chatbot)
 - [Pocket PC](https://github.com/niladrridas/Smart-Portable-Computer)
 
-## Publication
+## Social media
 
-- [Link](https://arxiv.org/abs/2405.05292)
-
-## Connect with Me
-
-- [LinkedIn](https://linkedIn.com/in/niladrridas)
 - [X](https://twitter.com/niladrridas)
 
-Thank you for visiting my profile!
+Thank you for visiting Niladri's profile!
