@@ -6,7 +6,9 @@ Niladri Das is born in Kolkata, when he grown up learnt to figure out DC motor a
 
 He given his interest in Electronics & Communication Engineering and published his major project in [Raspberry Pi](https://arxiv.org/abs/2405.05292) with skills in computer he choosen further education in B.Tech. Computer Science and Engineering. As part of his university, he collaborated with Aerospace domain to make Cube Satellite and VTOL UAV. Later, he managed his teammates into Smart India Hackathon. 
 
-He is a dynamic and passionate developer with a foundation from coursework in the microprocessor, diverse skill set in ML, command-line-interface, programming. He actively leveraging latest trends from his IT Training at Cloudnet Institute of Information Technology Pvt. Ltd. in [Kubernetes](https://kubernetes.io/) and [Ansible](https://www.ansible.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en) and simulating networks in [Cisco Packet Traccer](https://www.netacad.com/courses/packet-tracer), [GNS3](https://www.gns3.com).
+He is a dynamic and passionate developer with a foundation from coursework in the microprocessor, diverse skill set in ML, command-line-interface, programming. 
+
+He actively leveraging latest trends from his IT Training at Cloudnet Institute of Information Technology Pvt. Ltd. in [Red Hat Enterprise Linux](https://www.redhat.com/en) and networking simulation in [Cisco Packet Traccer](https://www.netacad.com/courses/packet-tracer), [GNS3](https://www.gns3.com).
 
 Here’s a powerful overview of his key skills and expertise now in IIT:
 
