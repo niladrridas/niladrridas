@@ -1,4 +1,11 @@
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niladrridas&layout=compact)](https://github.com/niladrridas)
+<div style="display: flex; align-items: center;">
+    <a href="https://github.com/niladrridas">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niladrridas&layout=compact" alt="Top Languages" style="margin-right: 10px;">
+    </a>
+    <img src="https://github.com/niladrridas/niladrridas/blob/main/assets/Niladri%20Das_IITMCS_2406195_Final%20ID%20Card.jpg" alt="Niladri Das ID Card" style="width: 262px; margin-right: 10px;">
+    <img src="https://github.com/niladrridas/niladrridas/blob/main/assets/IMG_20211219_171214.jpg" alt="Additional Image" style="width: 262px;">
+</div>
+
 
 ## Introduction
 
