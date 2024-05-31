@@ -1,3 +1,9 @@
+Check out the live demo [here](https://niladrridas.github.io/mars/).
+
+<details>
+<summary>Tap</summary>
+
+  
 ## Introduction
 
 Niladri Das is born in Kolkata, when he grown up learnt to figure out DC motor as part of remote control toys. He completed high schools in collective pure science. In 2019, he started Engineering Diploma seat in Lovely Professional University. 
@@ -109,3 +115,4 @@ Check out some of his projects to see his skills in action:
 - [Pocket PC](https://github.com/niladrridas/Smart-Portable-Computer)
 
 Thank you for visiting Niladri's profile!
+</details>
