@@ -1,6 +1,6 @@
-Check out the live web demo [here](https://niladrridas.github.io/mars/).
+Live web demo [here](https://niladrridas.github.io/mars/).
 
-Repo. launched on 31/05/2024: ✈️  [cpt-automation](https://github.com/niladrridas/cpt-automation)!
+Repo. fixed on 31/05/2024: ✈️  [cpt-automation](https://github.com/niladrridas/cpt-automation)!
 
 <details>
 <summary>Tap</summary>
