@@ -1,6 +1,6 @@
 - Live web demo [here](https://niladrridas.github.io/mars/).
 
-- Repo published on 31/05/2024 & publishing on [PyPi](https://pypi.org/) : [cpt-automation](https://github.com/niladrridas/cpt-automation).
+- Repo published on 31/05/2024 & library publishing on [PyPi](https://pypi.org/) : [cpt-automation](https://github.com/niladrridas/cpt-automation).
 
 <details>
 <summary>Tap</summary>
