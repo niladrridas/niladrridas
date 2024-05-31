@@ -1,5 +1,7 @@
 Check out the live demo [here](https://niladrridas.github.io/mars/).
 
+Latest Repo: ✈️  [cpt-automation](https://github.com/niladrridas/cpt-automation)!
+
 <details>
 <summary>Tap</summary>
 
