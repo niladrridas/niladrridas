@@ -1,4 +1,4 @@
-Check out the live demo [here](https://niladrridas.github.io/mars/).
+Check out the live web demo [here](https://niladrridas.github.io/mars/).
 
 Repo. launched on 31/05/2024: ✈️  [cpt-automation](https://github.com/niladrridas/cpt-automation)!
 
