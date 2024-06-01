@@ -1,3 +1,5 @@
+[Introduction to Mathematical Thinking](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc)
+
 - Live developer Web demo [here](https://niladrridas.github.io/mars/).
 - [cpt-automation](https://github.com/niladrridas/cpt-automation) repo published on 31/05/2024.
 - Python library publishing on [PyPi](https://pypi.org/).
