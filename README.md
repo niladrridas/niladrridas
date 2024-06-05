@@ -16,4 +16,4 @@ Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I am the [Network 
 
 * [Medium](https://niladrridas.medium.com/) @ Tech, Innovation, Interest
 * [CoderLegion](https://coderlegion.com/286/foundational-algorithmic-paradigms-and-advanced-algorithmic-concepts-in-development) @ Algorithm, AI
-* [Dev Community](dev.to/niladridas) @ Mathematics, Programming, Computer Science
+* [Dev Community](dev.to/niladridas) @ Mathematics
