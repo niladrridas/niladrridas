@@ -1,122 +1,13 @@
-[Introduction to Mathematical Thinking](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc)
+# About Me
 
-- Live developer Web demo [here](https://niladrridas.github.io/mars/).
-- [cpt-automation](https://github.com/niladrridas/cpt-automation) repo published on 31/05/2024.
-- Python library publishing on [PyPi](https://pypi.org/).
+[![GitHub](https://img.shields.io/badge/GitHub-%40niladrridas-239a3b.svg)](https://github.com/niladrridas)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/niladrrids/)
+[![X](https://img.shields.io/badge/X-%40niladrridas-222222.svg)](https://x.com/niladrridas)
 
-<details>
-<summary>Tap</summary>
+Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I am the [Network Lab Assistant](https://cloudnetindia.com/hardware-networking/) of [@CloudNet](https://cloudnetindia.com/) and love building projects that make reach the industry golas and students learn more. We’re always open to hearing your joining in our lab so drop us a note (or your entire IT wishlist) in [info@cloudnetindia.com](mailto:info@cloudnetindia.com). I grew up in 🇮🇳, live in the Eastern of the country, and you may know me as the alumnus of Lovely Professional University. I’m also a Raspberry Pi enthusiast and love turning that GitHub contribution graph ⬇️ more green 🟩 in my spare time. 
 
-  
-## Introduction
+## Volunteering
 
-Niladri Das is born in Kolkata, when he grown up learnt to figure out DC motor as part of remote control toys. He completed high schools in collective pure science. In 2019, he started Engineering Diploma seat in Lovely Professional University. 
-
-He given his interest in Electronics & Communication Engineering and published his major project in [Raspberry Pi](https://arxiv.org/abs/2405.05292) with skills in computer programming, he choosen further education in Lateral entry with top-tier scholarship for B.Tech. Computer Science and Engineering. As part of his university, he collaborated with Aerospace domain to make Cube Satellite and VTOL UAV. Later, he managed his teammates into Smart India Hackathon. 
-
-He is a dynamic and passionate developer with a foundation from coursework in the microprocessor, diverse skill set in ML, command-line-interface, programming. 
-
-He actively leveraging latest trends from his IT Training at Cloudnet Institute of Information Technology Pvt. Ltd. in [Red Hat Enterprise Linux](https://www.redhat.com/en) and networking simulation in [Cisco Packet Traccer](https://www.netacad.com/courses/packet-tracer), [GNS3](https://www.gns3.com).
-
-Here’s a powerful overview of his key skills and expertise now in IIT Mandi:
-
-**Minor in Data Science and Machine Learning:**
-
-- _Algebra & Functions_
-- _Discrete Mathematics_
-- _Applications to Data Science_
-- _Mathematics for Data Science_
-- _Programming for Data Engineering_
-- _Machine Learning Fundamentals: Supervised and Unsupervised learning, Evaluation techniques, and more_
-- _Deep Learning and Neural Networks: Neural Network Fundamentals, Deep learning algorithms, frameworks, and tools_
-- _Specialized Topics in AI and ML: Natural Language Processing (NLP), Computer Vision, Large Language Models (LLMs)_
-- _[Capstone project1](https://github.com/niladrridas/sentiment-analysis-naive-bayes)_, _[Capstone project2](https://github.com/niladrridas/Hybrid-Movie-Recommendation-System)_
-
-## Key Skills
-
-### Programming Languages & Tools
-
-<p align="left">
-<p align="left">
-  <!-- Python Badge -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-
-  <!-- Matplotlib Badge -->
-  <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" />
-
-  <!-- Numpy Badge -->
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
-
-  <!-- Plotly Badge -->
-  <img src="https://img.shields.io/badge/-Plotly-3776AB?style=flat-square&logo=plotly&logoColor=white" />
-
-  <!-- PyTorch Badge -->
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-
-  <!-- scikit-learn Badge -->
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
-  
-  <!-- TensorFlow Badge -->
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-
-  <!-- Pandas Badge -->
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
-
-  <!-- OpenAI Badge -->
-  <img src="https://img.shields.io/badge/-OpenAI-00FF00?style=flat-square&logo=openai&logoColor=white" />
-
-  <!-- OpenCV Badge -->
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-
-  <!-- Jupyter Notebook Badge -->
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white"/>
-
-  <!-- SpaCy Badge -->
-  <img src="https://img.shields.io/badge/-SpaCy-09a3d5?style=flat-square&logo=spacy&logoColor=white" />
-
-  <!-- HTML5 Badge -->
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
-  <!-- CSS3 Badge -->
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-  <!-- JavaScript Badge -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-  <!-- Git Badge -->
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-  <!-- Linux Badge -->
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-  <!-- Bash Badge -->
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-
-  <!-- HTTP Badge -->
-  <img src="https://img.shields.io/badge/-HTTP-0056D2?style=flat-square&logo=http&logoColor=white" alt="HTTP"/>
-
-  <!-- VSCode Badge -->
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white"/>
- 
-</p>
-
-## Development Methodologies
-
-- **Agile**: Experienced in agile methodology, including Scrum and Kanban. Capable of working in fast-paced environments, adapting to changing requirements, and delivering high-quality results on time.
-
-## Automation Demo
-
-Here is an example of an automation process he worked on, showing the stages of coding, deployment and output:
-
-![Automation Process](assets/automation.svg#gh-dark-mode-only)
-![Automation Process](assets/automation.svg#gh-light-mode-only)
-
-## Projects
-
-Check out some of his projects to see his skills in action:
-- [Face Recognition](https://github.com/niladrridas/face-recognition-webcam)
-- [Voice Assistant Chatbot](https://github.com/niladrridas/voice-assistant-chatbot)
-- [Pocket PC](https://github.com/niladrridas/Smart-Portable-Computer)
-
-Thank you for visiting Niladri's profile!
-</details>
+* [Smart India Hackathon, 2022 Hardware Edition.](https://www.sih.gov.in/sih2022s) @ Lovely Professional University 2022, Jalandhar, Punjab
+* [Techfest, IIT Bombay](https://www.facebook.com/iitbombaytechfest/photos/a.1138396152939152/4133042983474439/?type=3) @ AL-VTOLA 2021, Asia Largest Science and Technology Festival, Mumbai, Maharashtra
+* [Nano Satellite Design Competition](https://www.tribuneindia.com/news/jalandhar/lpu-plans-to-set-up-space-station-for-multiple-satellites-tracking-286076) @ Lovely Professional University, @ Indian Space Research Organization 2021, Jalandhar, India
