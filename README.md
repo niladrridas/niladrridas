@@ -17,4 +17,4 @@ Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I am the [Network 
 * [freeCodeCamp](https://www.freecodecamp.org/niladrridas) @ Web Design, DSA
 * [Medium](https://niladrridas.medium.com/) @ Tech, Innovation, Interest
 * [CoderLegion](https://coderlegion.com/286/foundational-algorithmic-paradigms-and-advanced-algorithmic-concepts-in-development) @ Algorithm, AI
-* [Dev Community](dev.to/niladridas) @ Mathematics
+* [Dev Community](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc) @ Mathematics
