@@ -1,3 +1,64 @@
+# Projects
+==========
+
+## Artificial Intelligence
+### --------------
+
+| Project Name | Link |
+| --- | --- |
+| Text-to-Image | [text-to-image](https://github.com/niladrridas/text-to-image) |
+| Deep Learning | [deeplearning](https://github.com/niladrridas/deeplearning) |
+| GAN | [gan](https://github.com/niladrridas/gan) |
+| Deep Vision | [deepvision](https://github.com/niladrridas/deepvision) |
+| Face Recognition | [facerecognition](https://github.com/niladrridas/facerecognition) |
+| Image Classification | [imageclassification](https://github.com/niladrridas/imageclassification) |
+| Sentiment Analysis | [sentiment-analysis](https://github.com/niladrridas/sentiment-analysis) |
+| Chatbot | [chatbot](https://github.com/niladrridas/chatbot) |
+| Voice Assistant Chatbot | [voice-assistant-chatbot](https://github.com/niladrridas/voice-assistant-chatbot) |
+
+## Data Analysis
+### -------------
+
+| Project Name | Link |
+| --- | --- |
+| Data Analysis | [dataanalysis](https://github.com/niladrridas/dataanalysis) |
+| ML Loan Eligibility | [ml-loan-eligibility](https://github.com/niladrridas/ml-loan-eligibility) |
+
+## Device and Firmware
+### -----------------
+
+| Project Name | Link |
+| --- | --- |
+| Device | [device](https://github.com/niladrridas/device) |
+| Firmware | [firmware](https://github.com/niladrridas/firmware) |
+
+## Automation
+### ----------
+
+| Project Name | Link |
+| --- | --- |
+| CPT Automation | [cpt-automation](https://github.com/niladrridas/cpt-automation) |
+| NetConfig Automator | [NetConfig-Automator](https://github.com/niladrridas/NetConfig-Automator) |
+
+## Web Development
+### ----------------
+
+| Project Name | Link |
+| --- | --- |
+| Ecommerce | [ecommerce](https://github.com/niladrridas/ecommerce) |
+| Airline Booking System | [airline-booking-system](https://github.com/niladrridas/airline-booking-system) |
+
+## Miscellaneous
+### -------------
+
+| Project Name | Link |
+| --- | --- |
+| Takashi | [Takashi](https://github.com/niladrridas/Takashi) |
+| Location Tracker | [location-tracker](https://github.com/niladrridas/location-tracker) |
+| Terminal | [terminal](https://github.com/niladrridas/terminal) |
+| User Info Collector | [user-info-collector](https://github.com/niladrridas/user-info-collector) |
+| Movieml | [movieml](https://github.com/niladrridas/movieml) |
+
 # About Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40niladrridas-239a3b.svg)](https://github.com/niladrridas)
