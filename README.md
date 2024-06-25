@@ -1,8 +1,5 @@
 # Projects
-==========
-
 ## Artificial Intelligence
-### --------------
 
 | Project Name | Link | Tools/Technologies | IDE/OS |
 | --- | --- | --- | --- |
@@ -17,7 +14,6 @@
 | Voice Assistant Chatbot | [voice-assistant-chatbot](https://github.com/niladrridas/voice-assistant-chatbot) | Python, Dialogflow, Node.js, Express.js, Google Cloud Speech-to-Text | Android Studio, Windows 10 |
 
 ## Data Analysis
-### -------------
 
 | Project Name | Link | Tools/Technologies | IDE/OS |
 | --- | --- | --- | --- |
@@ -25,7 +21,6 @@
 | ML Loan Eligibility | [ml-loan-eligibility](https://github.com/niladrridas/ml-loan-eligibility) | Python, Scikit-learn, TensorFlow, Keras | PyCharm, Ubuntu |
 
 ## Device and Firmware
-### -----------------
 
 | Project Name | Link | Tools/Technologies | IDE/OS |
 | --- | --- | --- | --- |
@@ -33,7 +28,6 @@
 | Firmware | [firmware](https://github.com/niladrridas/firmware) | C, C++, Arduino, ESP32 | Arduino IDE, Windows 10 |
 
 ## Automation
-### ----------
 
 | Project Name | Link | Tools/Technologies | IDE/OS |
 | --- | --- | --- | --- |
@@ -41,7 +35,6 @@
 | NetConfig Automator | [NetConfig-Automator](https://github.com/niladrridas/NetConfig-Automator) | Python, Netmiko, Paramiko, Cisco IOS | Visual Studio Code, Windows 10 |
 
 ## Web Development
-### ----------------
 
 | Project Name | Link | Tools/Technologies | IDE/OS |
 | --- | --- | --- | --- |
@@ -49,7 +42,6 @@
 | Airline Booking System | [airline-booking-system](https://github.com/niladrridas/airline-booking-system) | Node.js, Express.js, React, MySQL | IntelliJ IDEA, macOS |
 
 ## Miscellaneous
-### -------------
 
 | Project Name | Link | Tools/Technologies | IDE/OS |
 | --- | --- | --- | --- |
