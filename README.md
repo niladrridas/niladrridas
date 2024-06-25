@@ -79,3 +79,5 @@ Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I work as a Hardwa
 * Email me at [niladrid091@gmail.com](mailto:niladrid091@gmail.com) 📧
 
   ![Autopilot](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
+### Try this [here](https://niladrridas.github.io/interactive-quiz/).
