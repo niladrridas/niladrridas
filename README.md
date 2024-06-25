@@ -81,3 +81,5 @@ Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I am the [Hardware
 * [Medium](https://niladrridas.medium.com/) @ Tech, Innovation, Interest
 * [CoderLegion](https://coderlegion.com/286/foundational-algorithmic-paradigms-and-advanced-algorithmic-concepts-in-development) @ Algorithm, AI
 * [Dev Community](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc) @ Mathematics
+
+![Autopilot](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
