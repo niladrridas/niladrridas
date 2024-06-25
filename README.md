@@ -81,5 +81,7 @@ Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I am the [Hardware
 * [Medium](https://niladrridas.medium.com/) @ Tech, Innovation, Interest
 * [CoderLegion](https://coderlegion.com/286/foundational-algorithmic-paradigms-and-advanced-algorithmic-concepts-in-development) @ Algorithm, AI
 * [Dev Community](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc) @ Mathematics
+* [Hashnode](https://niladridas.hashnode.dev/configuring-vtp-with-inter-vlan-routing-using-cisco-packet-tracer) @ CCNA, Data Science, AI
+* [Electronic Mail](mailto:niladrid091@gmail.com) 📧
 
-![Autopilot](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+  ![Autopilot](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
