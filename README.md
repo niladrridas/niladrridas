@@ -4,60 +4,60 @@
 ## Artificial Intelligence
 ### --------------
 
-| Project Name | Link |
-| --- | --- |
-| Text-to-Image | [text-to-image](https://github.com/niladrridas/text-to-image) |
-| Deep Learning | [deeplearning](https://github.com/niladrridas/deeplearning) |
-| GAN | [gan](https://github.com/niladrridas/gan) |
-| Deep Vision | [deepvision](https://github.com/niladrridas/deepvision) |
-| Face Recognition | [facerecognition](https://github.com/niladrridas/facerecognition) |
-| Image Classification | [imageclassification](https://github.com/niladrridas/imageclassification) |
-| Sentiment Analysis | [sentiment-analysis](https://github.com/niladrridas/sentiment-analysis) |
-| Chatbot | [chatbot](https://github.com/niladrridas/chatbot) |
-| Voice Assistant Chatbot | [voice-assistant-chatbot](https://github.com/niladrridas/voice-assistant-chatbot) |
+| Project Name | Link | Tools/Technologies | IDE/OS |
+| --- | --- | --- | --- |
+| Text-to-Image | [text-to-image](https://github.com/niladrridas/text-to-image) | Python, TensorFlow, Keras, OpenCV | PyCharm, Ubuntu |
+| Deep Learning | [deeplearning](https://github.com/niladrridas/deeplearning) | Python, TensorFlow, Keras, PyTorch | Visual Studio Code, Windows 10 |
+| GAN | [gan](https://github.com/niladrridas/gan) | Python, TensorFlow, Keras, PyTorch | Jupyter Notebook, macOS |
+| Deep Vision | [deepvision](https://github.com/niladrridas/deepvision) | Python, OpenCV, TensorFlow, Keras | PyCharm, Ubuntu |
+| Face Recognition | [facerecognition](https://github.com/niladrridas/facerecognition) | Python, OpenCV, FaceRecognition, Dlib | Visual Studio Code, Windows 10 |
+| Image Classification | [imageclassification](https://github.com/niladrridas/imageclassification) | Python, TensorFlow, Keras, OpenCV | Jupyter Notebook, macOS |
+| Sentiment Analysis | [sentiment-analysis](https://github.com/niladrridas/sentiment-analysis) | Python, NLTK, scikit-learn, TensorFlow | PyCharm, Ubuntu |
+| Chatbot | [chatbot](https://github.com/niladrridas/chatbot) | Python, Dialogflow, Node.js, Express.js | Visual Studio Code, Windows 10 |
+| Voice Assistant Chatbot | [voice-assistant-chatbot](https://github.com/niladrridas/voice-assistant-chatbot) | Python, Dialogflow, Node.js, Express.js, Google Cloud Speech-to-Text | Android Studio, Windows 10 |
 
 ## Data Analysis
 ### -------------
 
-| Project Name | Link |
-| --- | --- |
-| Data Analysis | [dataanalysis](https://github.com/niladrridas/dataanalysis) |
-| ML Loan Eligibility | [ml-loan-eligibility](https://github.com/niladrridas/ml-loan-eligibility) |
+| Project Name | Link | Tools/Technologies | IDE/OS |
+| --- | --- | --- | --- |
+| Data Analysis | [dataanalysis](https://github.com/niladrridas/dataanalysis) | Python, Pandas, NumPy, Matplotlib, Scikit-learn | Jupyter Notebook, macOS |
+| ML Loan Eligibility | [ml-loan-eligibility](https://github.com/niladrridas/ml-loan-eligibility) | Python, Scikit-learn, TensorFlow, Keras | PyCharm, Ubuntu |
 
 ## Device and Firmware
 ### -----------------
 
-| Project Name | Link |
-| --- | --- |
-| Device | [device](https://github.com/niladrridas/device) |
-| Firmware | [firmware](https://github.com/niladrridas/firmware) |
+| Project Name | Link | Tools/Technologies | IDE/OS |
+| --- | --- | --- | --- |
+| Device | [device](https://github.com/niladrridas/device) | Python, Bash, Raspberry Pi 4B | Raspberry Pi Imager, macOS, Ubuntu, Kali Linux |
+| Firmware | [firmware](https://github.com/niladrridas/firmware) | C, C++, Arduino, ESP32 | Arduino IDE, Windows 10 |
 
 ## Automation
 ### ----------
 
-| Project Name | Link |
-| --- | --- |
-| CPT Automation | [cpt-automation](https://github.com/niladrridas/cpt-automation) |
-| NetConfig Automator | [NetConfig-Automator](https://github.com/niladrridas/NetConfig-Automator) |
+| Project Name | Link | Tools/Technologies | IDE/OS |
+| --- | --- | --- | --- |
+| CPT Automation | [cpt-automation](https://github.com/niladrridas/cpt-automation) | Python, Selenium, PyAutoGUI, Robot Framework | PyCharm, Ubuntu |
+| NetConfig Automator | [NetConfig-Automator](https://github.com/niladrridas/NetConfig-Automator) | Python, Netmiko, Paramiko, Cisco IOS | Visual Studio Code, Windows 10 |
 
 ## Web Development
 ### ----------------
 
-| Project Name | Link |
-| --- | --- |
-| Ecommerce | [ecommerce](https://github.com/niladrridas/ecommerce) |
-| Airline Booking System | [airline-booking-system](https://github.com/niladrridas/airline-booking-system) |
+| Project Name | Link | Tools/Technologies | IDE/OS |
+| --- | --- | --- | --- |
+| Ecommerce | [ecommerce](https://github.com/niladrridas/ecommerce) | Node.js, Express.js, React, MongoDB | Visual Studio Code, Windows 10 |
+| Airline Booking System | [airline-booking-system](https://github.com/niladrridas/airline-booking-system) | Node.js, Express.js, React, MySQL | IntelliJ IDEA, macOS |
 
 ## Miscellaneous
 ### -------------
 
-| Project Name | Link |
-| --- | --- |
-| Takashi | [Takashi](https://github.com/niladrridas/Takashi) |
-| Location Tracker | [location-tracker](https://github.com/niladrridas/location-tracker) |
-| Terminal | [terminal](https://github.com/niladrridas/terminal) |
-| User Info Collector | [user-info-collector](https://github.com/niladrridas/user-info-collector) |
-| Movieml | [movieml](https://github.com/niladrridas/movieml) |
+| Project Name | Link | Tools/Technologies | IDE/OS |
+| --- | --- | --- | --- |
+| Takashi | [Takashi](https://github.com/niladrridas/Takashi) | Python, Django, PostgreSQL, Bootstrap | PyCharm, Ubuntu |
+| Location Tracker | [location-tracker](https://github.com/niladrridas/location-tracker) | Python, Flask, Google Maps API, MySQL | Visual Studio Code, Windows 10 |
+| Terminal | [terminal](https://github.com/niladrridas/terminal) | C, C++, Linux, Bash | Vim, Ubuntu |
+| User Info Collector | [user-info-collector](https://github.com/niladrridas/user-info-collector) | Python, Scrapy, BeautifulSoup, MongoDB | PyCharm, Ubuntu |
+| Movieml | [movieml](https://github.com/niladrridas/movieml) | Python, TensorFlow, Keras, OpenCV | Jupyter Notebook, macOS |
 
 # About Me
 
