@@ -1,3 +1,5 @@
+## Read My [Newspaper](https://niladridas.hashnode.dev/)!
+
 ### Projects
 
 #### Artificial Intelligence
