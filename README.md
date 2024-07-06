@@ -745,7 +745,7 @@ Natural Language Processing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40niladrridas-0c66c3.svg)](https://www.linkedin.com/in/niladrridas/)
 [![X](https://img.shields.io/badge/X-%40niladrridas-222222.svg)](https://x.com/niladrridas)
 
-Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I work as a Hardware Network Engineer at [@CloudNet](https://cloudnetindia.com/) and enjoy building projects that contribute to industry goals and foster learning among students. Originally from 🇮🇳, I reside in Eastern India. I am an alumnus of Lovely Professional University and currently pursuing Data Science and ML lectures at The Indian Institute of Technology Mandi. In my spare time, I'm enthusiastic about Raspberry Pi projects and contributing to open source.
+Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I work as a Hardware Network Engineer at [@CloudNet India](https://cloudnetindia.com/) and enjoy building projects that contribute to industry goals and foster learning among students. Originally from 🇮🇳, I reside in Eastern India. I am an alumnus of Lovely Professional University and currently pursuing Data Science and ML lectures at The Indian Institute of Technology Mandi. In my spare time, I'm enthusiastic about Raspberry Pi projects and contributing to open source.
 
 ## Qualifications
 
