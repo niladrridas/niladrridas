@@ -747,9 +747,16 @@ Natural Language Processing
 
 Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I work as a Hardware Network Engineer at [@CloudNet](https://cloudnetindia.com/) and enjoy building projects that contribute to industry goals and foster learning among students. Originally from 🇮🇳, I reside in Eastern India. I am an alumnus of Lovely Professional University and currently pursuing Data Science and ML lectures at The Indian Institute of Technology Mandi. In my spare time, I'm enthusiastic about Raspberry Pi projects and contributing to open source.
 
+## Qualifications
+
+* [Minor in Data Science and Machine Learning](https://www.masaischool.com/iit-mandi-ai-ml) @ CCE,IIT Mandi 2024, Mandi, Online
+* [B.Tech. (Computer Science and Engineering) [Lateral Entry]](https://www.lpu.in/programmes/engineering/b-tech-computer-science-lateral-entry) @ Lovely Professional University 2022, Phagwara, Online
+* [Hardware Network Engineer](https://cloudnetindia.com/hardware-network-engineer-course-kolkata/), [CCNP](https://cloudnetindia.com/ccnp-course-kolkata/) @ CloudNet Institute of Information Technology 2023, Dumdum, Hybrid
+* [Diploma in Electronics and Communication Engineering](https://www.lpu.in/programmes/engineering/diploma-in-electronics-and-Communications) @ Lovely Professional University 2019, Phagwara (After COVID-19 Online)
+
 ## Roles 
 
-* [Geekle AI Hackathon](https://geekle.us/schedule/hackathon) @ Geekle.us, Wilmington, Delaware
+* [Geekle AI Hackathon](https://geekle.us/schedule/hackathon) @ Geekle.us 2024, Wilmington, Delaware
 * [Google Developer Student Clubs](https://gdsc.community.dev/lovely-professional-university-jalandhar-india/) @ Lovely Professional University 2024, Jalandhar, Punjab
 * [Google Developer Student Clubs](https://gdsc.community.dev/u/mz64gm/#/about) @ Ramaiah Institute of Applied Sciences 2024, Bengaluru, Karnataka
 * [Smart India Hackathon, 2022 Hardware Edition](https://www.sih.gov.in/sih2022s) @ Lovely Professional University 2022, Jalandhar, Punjab
