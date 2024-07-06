@@ -772,3 +772,14 @@ Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I work as a Hardwa
 * [Hashnode](https://niladridas.hashnode.dev/configuring-vtp-with-inter-vlan-routing-using-cisco-packet-tracer) @ CCNA, Data Science, AI
 
 ### Try this [here](https://niladrridas.github.io/interactive-quiz/).
+
+### Agile Development Principles
+-------------------------------
+#### Embracing Imperfection
+> Instead of trying to write perfect code from the start
+#### Divide and Conquer
+> Break down the task into smaller, manageable chunks
+#### Rapid Delivery
+> Focus on delivering a working solution quickly
+#### Refine and Iterate
+> Then, iterate and refine the code based on feedback and testing
