@@ -17,13 +17,13 @@
     <a href="https://github.com/niladrridas/text-to-image" target="_blank">
       Text-to-Image
     </a>
-    <p>Python, TensorFlow, Keras, OpenCV, Git</p>
+    <p>Python, PyTorch, Hugging Face, PIL, Autocast, Cuda, Tkinter</p>
   </li>
   <li>
     <a href="https://github.com/niladrridas/deeplearning" target="_blank">
       Deep Learning
     </a>
-    <p>Python, TensorFlow, Keras, PyTorch, Git</p>
+    <p>Python, Numpy, Pandas, Sklearn, TensorFlow, Matplotlib</p>
   </li>
   <!-- Add more projects here -->
 </ul>
