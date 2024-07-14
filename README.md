@@ -33,10 +33,8 @@ Welcome to my GitHub profile! Here are some of the skills and technologies I wor
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Projects
-- [LUNGSCAN-AHR](https://github.com/yourusername/LUNGSCAN-AHR): Project description here.
-- [Project 2](https://github.com/yourusername/project2): Project description here.
-- [Project 3](https://github.com/yourusername/project3): Project description here.
-
+- [LUNGSCAN-AHR](https://gitlab.com/niladridas/lungscan-ahr): A project to develop a non-invasive, AI-powered system for detecting lung cancer associated with combustion particles and fine particulate matter (PM2.5).
+  
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/niladrridas/)
 - [X](https://twitter.com/niladrridas)
