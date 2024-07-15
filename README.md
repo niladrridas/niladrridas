@@ -1,4 +1,6 @@
-# Hi there, I'm Niladri Das 👋
+<p align="center">
+  <img src="./.github/custom-font.svg" alt="Hi there, I'm Niladri Das 👋">
+</p>
 
 Welcome to my GitHub profile! Here are some of the skills and technologies I work with:
 
