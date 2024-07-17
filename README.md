@@ -1,6 +1,23 @@
+```
+   _____      _       _       _     _             
+  / ____|    (_)     | |     | |   | |            
+ | |  __ _ __ _ _ __ | |_ ___| |__ | |_   _  __ _ 
+ | | |_ | '__| | '_ \| __/ _ \ '_ \| | | | |/ _` |
+ | |__| | |  | | | | | ||  __/ |_) | | |_| | (_| |
+  \_____|_|  |_|_| |_|\__\___|_.__/|_|\__, |\__,_|
+                                       __/ |      
+                                      |___/       
+_____      _       _   
+ |  __ \    (_)     | |  
+ | |__) |_ _ _ _ __ | |_ 
+ |  ___/ _` | | '_ \| __|
+ | |  | (_| | | | | | |_ 
+ |_|   \__,_|_|_| |_|\__|
+                         
+```
 <p align="center">
-  <img align="center" src="./.github/custom-font.svg#gh-dark-mode-only"/>
-  <img align="center" src="./.github/custom-font.svg#gh-light-mode-only"/>
+  <img align="center" alt="Custom font for dark mode" src="./.github/custom-font.svg#gh-dark-mode-only"/>
+  <img align="center" alt="Custom font for light mode" src="./.github/custom-font.svg#gh-light-mode-only"/>
 </p>
 
 Welcome to my GitHub profile! Here are some of the skills and technologies I work with:
