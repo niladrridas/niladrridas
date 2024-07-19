@@ -734,38 +734,6 @@ Natural Language Processing
 | User Info Collector | [user-info-collector](https://github.com/niladrridas/user-info-collector) | Python, Scrapy, BeautifulSoup, MongoDB, Git | PyCharm, Ubuntu |
 | Movieml | [movieml](https://github.com/niladrridas/movieml) | Python, TensorFlow, Keras, OpenCV, Git | Jupyter Notebook, macOS |
 
-### About Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40niladrridas-239a3b.svg)](https://github.com/niladrridas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40niladrridas-0c66c3.svg)](https://www.linkedin.com/in/niladrridas/)
-[![X](https://img.shields.io/badge/X-%40niladrridas-222222.svg)](https://x.com/niladrridas)
-
-Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I work as a Hardware Network Engineer at [@CloudNet India](https://cloudnetindia.com/) and enjoy building projects that contribute to industry goals and foster learning among students. Originally from 🇮🇳, I reside in Eastern India. I am an alumnus of Lovely Professional University and currently pursuing Data Science and ML lectures at The Indian Institute of Technology Mandi. In my spare time, I'm enthusiastic about Raspberry Pi projects and contributing to open source.
-
-## Qualifications
-
-* [Minor in Data Science and Machine Learning](https://www.masaischool.com/iit-mandi-ai-ml) @ CCE,IIT Mandi 2024, Mandi, Online
-* [B.Tech. (Computer Science and Engineering) [Lateral Entry]](https://www.lpu.in/programmes/engineering/b-tech-computer-science-lateral-entry) @ Lovely Professional University 2022, Phagwara, Online
-* [Hardware Network Engineer](https://cloudnetindia.com/hardware-network-engineer-course-kolkata/), [CCNP](https://cloudnetindia.com/ccnp-course-kolkata/) @ CloudNet Institute of Information Technology 2023, Dumdum, Hybrid
-* [Diploma in Electronics and Communication Engineering](https://www.lpu.in/programmes/engineering/diploma-in-electronics-and-Communications) @ Lovely Professional University 2019, Phagwara (After COVID-19 Online)
-
-## Roles 
-
-* [Geekle AI Hackathon](https://geekle.us/schedule/hackathon) @ Geekle.us 2024, Wilmington, Delaware
-* [Google Developer Student Clubs](https://gdsc.community.dev/lovely-professional-university-jalandhar-india/) @ Lovely Professional University 2024, Jalandhar, Punjab
-* [Google Developer Student Clubs](https://gdsc.community.dev/u/mz64gm/#/about) @ Ramaiah Institute of Applied Sciences 2024, Bengaluru, Karnataka
-* [Smart India Hackathon, 2022 Hardware Edition](https://www.sih.gov.in/sih2022s) @ Lovely Professional University 2022, Jalandhar, Punjab
-* [Techfest, IIT Bombay](https://www.facebook.com/iitbombaytechfest/photos/a.1138396152939152/4133042983474439/?type=3) @ AL-VTOLA 2021, Asia Largest Science and Technology Festival, Mumbai, Maharashtra
-* [Nano Satellite Design Competition](https://www.tribuneindia.com/news/jalandhar/lpu-plans-to-set-up-space-station-for-multiple-satellites-tracking-286076) @ Lovely Professional University, @ Indian Space Research Organization 2021, Jalandhar
-
-## Actively Coding, Blogging
-
-* [freeCodeCamp](https://www.freecodecamp.org/niladrridas) @ Web Design, DSA
-* [Medium](https://niladrridas.medium.com/) @ Tech, Innovation, Interest
-* [CoderLegion](https://coderlegion.com/286/foundational-algorithmic-paradigms-and-advanced-algorithmic-concepts-in-development) @ Algorithm, AI
-* [Dev Community](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc) @ Mathematics
-* [Hashnode](https://niladridas.hashnode.dev/configuring-vtp-with-inter-vlan-routing-using-cisco-packet-tracer) @ CCNA, Data Science, AI
-
 ### Agile Development Principles
 -------------------------------
 #### Embracing Imperfection
