@@ -1,80 +1,4 @@
-```
-   _____      _       _       _     _             
-  / ____|    (_)     | |     | |   | |            
- | |  __ _ __ _ _ __ | |_ ___| |__ | |_   _  __ _ 
- | | |_ | '__| | '_ \| __/ _ \ '_ \| | | | |/ _` |
- | |__| | |  | | | | | ||  __/ |_) | | |_| | (_| |
-  \_____|_|  |_|_| |_|\__\___|_.__/|_|\__, |\__,_|
-                                       __/ |      
-                                      |___/       
-_____      _       _   
- |  __ \    (_)     | |  
- | |__) |_ _ _ _ __ | |_ 
- |  ___/ _` | | '_ \| __|
- | |  | (_| | | | | | |_ 
- |_|   \__,_|_|_| |_|\__|
-                         
-```
-<p align="center">
-  <img align="center" alt="Custom font for dark mode" src="./.github/custom-font.svg#gh-dark-mode-only"/>
-  <img align="center" alt="Custom font for light mode" src="./.github/custom-font.svg#gh-light-mode-only"/>
-</p>
-
-Welcome to my GitHub profile! Here are some of the skills and technologies I work with:
-
-## Skills and Technologies
-
-<div align=center>
-  <h3>💎Programing Langs💎</h3>
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,js,ts,css,vite,md,nodejs,express,php,lua,angular,react">
-  <h3>🧶Databases🧶</h3>
-   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
-  <h3>🏏Tools🏏</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino,cmake">
-  <h3>🎡Will Learn🎡</h3>
-    <img src="https://skillicons.dev/icons?i=c,vue,java">
-</div>
-
-<div align=center>
-  <h3>🔧Frameworks and Libraries🔧</h3>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  
-  <h3>🛠️Tools and Platforms🛠️</h3>
-
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
-
-  <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
-
-
-## Projects
-- [LUNGSCAN-AHR](https://gitlab.com/niladridas/lungscan-ahr): A project to develop a non-invasive, AI-powered system for detecting lung cancer associated with combustion particles and fine particulate matter (PM2.5).
-  
-## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/niladrridas/)
-- [X](https://twitter.com/niladrridas)
-- [Email](mailto:niladrridas1@gmail.com)
-
----
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaborations in mind.
-
-
-## Read My [CS Newspaper](https://niladridas.hashnode.dev/)!
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-Hierarchical list of computer science and related fields:
+## Hierarchical list of computer science and related fields:
 
 <details>
   <summary>Artificial Intelligence (AI)</summary>
@@ -753,7 +677,9 @@ Natural Language Processing
 
 </details>
 
-### Projects
+## Projects
+
+- [LUNGSCAN-AHR](https://gitlab.com/niladridas/lungscan-ahr): A project to develop a non-invasive, AI-powered system for detecting lung cancer associated with combustion particles and fine particulate matter (PM2.5).
 
 #### Artificial Intelligence
 
@@ -839,8 +765,6 @@ Hi, I am [@niladrridas](https://github.com/niladrridas). 👋 I work as a Hardwa
 * [CoderLegion](https://coderlegion.com/286/foundational-algorithmic-paradigms-and-advanced-algorithmic-concepts-in-development) @ Algorithm, AI
 * [Dev Community](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc) @ Mathematics
 * [Hashnode](https://niladridas.hashnode.dev/configuring-vtp-with-inter-vlan-routing-using-cisco-packet-tracer) @ CCNA, Data Science, AI
-
-### Try this [here](https://niladrridas.github.io/interactive-quiz/).
 
 ### Agile Development Principles
 -------------------------------
