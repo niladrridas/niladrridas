@@ -2,6 +2,15 @@
 
 ### Artificial Intelligence
 
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-green?logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-lightgrey?logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-orange?logo=jupyter&logoColor=white)
+
 | Project Name         | Link                                                      | Tools/Technologies                           | IDE/OS                |
 |----------------------|------------------------------------------------------------|----------------------------------------------|-----------------------|
 | Text-to-Image        | [text-to-image](https://github.com/niladrridas/text-to-image) | Python, TensorFlow, Keras, OpenCV, Git        | PyCharm, Ubuntu       |
@@ -16,6 +25,14 @@
 
 ### Data Analysis
 
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-yellow?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-blue?logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-lightgrey?logo=git&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-orange?logo=jupyter&logoColor=white)
+
 | Project Name        | Link                                                        | Tools/Technologies                           | IDE/OS                |
 |---------------------|--------------------------------------------------------------|----------------------------------------------|-----------------------|
 | Data Analysis       | [dataanalysis](https://github.com/niladrridas/dataanalysis)   | Python, Pandas, NumPy, Matplotlib, Scikit-learn, Git | Jupyter Notebook, macOS |
@@ -23,12 +40,28 @@
 
 ### Device and Firmware
 
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?logo=raspberry-pi&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-green?logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-lightgrey?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code&logoColor=white)
+
 | Project Name | Link                                                    | Tools/Technologies                           | IDE/OS                     |
 |--------------|----------------------------------------------------------|----------------------------------------------|----------------------------|
 | Device       | [device](https://github.com/niladrridas/device)           | Python, Bash, Raspberry Pi 4B, Git            | Raspberry Pi Imager, macOS, Ubuntu, Kali Linux |
 | Firmware     | [firmware](https://github.com/niladrridas/firmware)       | C, C++, Arduino, ESP32, Git                   | Arduino IDE, Windows 10    |
 
 ### Automation
+
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-blue?logo=robot-framework&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-lightgrey?logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&logoColor=white)
 
 | Project Name     | Link                                                        | Tools/Technologies                           | IDE/OS                |
 |------------------|--------------------------------------------------------------|----------------------------------------------|-----------------------|
