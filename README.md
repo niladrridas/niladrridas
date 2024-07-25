@@ -34,21 +34,3 @@
 |------------------|--------------------------------------------------------------|----------------------------------------------|-----------------------|
 | CPT Automation   | [cpt-automation](https://github.com/niladrridas/cpt-automation) | Python, Selenium, PyAutoGUI, Robot Framework, Git | PyCharm, Ubuntu       |
 | NetConfig Automator | [NetConfig-Automator](https://github.com/niladrridas/NetConfig-Automator) | Python, Netmiko, Paramiko, Cisco IOS, Git     | Visual Studio Code, Windows 10 |
-
-### Web Development
-
-| Project Name          | Link                                                            | Tools/Technologies                           | IDE/OS                |
-|-----------------------|------------------------------------------------------------------|----------------------------------------------|-----------------------|
-| Ecommerce             | [ecommerce](https://github.com/niladrridas/ecommerce)             | Node.js, Express.js, React, MongoDB, Git      | Visual Studio Code, Windows 10 |
-| Airline Booking System| [airline-booking-system](https://github.com/niladrridas/airline-booking-system) | Node.js, Express.js, React, MySQL, Git        | IntelliJ IDEA, macOS   |
-| Portfolio Website     | [niladrridas.github.io](https://github.com/niladrridas/niladrridas.github.io) | HTML, CSS, JavaScript, Git                   | Visual Studio Code, macOS |
-
-### Miscellaneous
-
-| Project Name        | Link                                                        | Tools/Technologies                           | IDE/OS                |
-|---------------------|--------------------------------------------------------------|----------------------------------------------|-----------------------|
-| Takashi             | [Takashi](https://github.com/niladrridas/Takashi)             | JavaScript, CSS, HTML, Git                   | Visual Studio Code, macOS |
-| Location Tracker    | [location-tracker](https://github.com/niladrridas/location-tracker) | Python, Flask, Google Maps API, MySQL, Git    | Visual Studio Code, Windows 10 |
-| Terminal            | [terminal](https://github.com/niladrridas/terminal)           | C, C++, Linux, Bash, Git                     | Vim, Ubuntu           |
-| User Info Collector | [user-info-collector](https://github.com/niladrridas/user-info-collector) | Python, Scrapy, BeautifulSoup, MongoDB, Git  | PyCharm, Ubuntu       |
-| Movieml             | [movieml](https://github.com/niladrridas/movieml)             | Python, TensorFlow, Keras, OpenCV, Git        | Jupyter Notebook, macOS |
