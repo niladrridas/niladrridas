@@ -1,3 +1,20 @@
+# About Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40niladrridas-239a3b.svg)](https://github.com/niladrridas)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/niladrridas/)
+[![X](https://img.shields.io/badge/X-%40ashtom-222222.svg)](https://x.com/niladrridas)
+
+Hello, I’m a Freelance Programmer 👋
+
+I specialize in C++, JavaScript, Python, and MySQL, with over 360 problems solved on LeetCode, including more than 80 hard-level challenges. My technical expertise extends to managing and setting up PCs, servers, and battery systems.
+
+During my studies at Lovely Professional University (LPU), I led major projects involving Raspberry Pi 4 and spearheaded teams focused on hardware and aerospace initiatives. I have also designed PCBs and worked on combinational and sequential circuits using Xilinx Vivado, contributing to high-end computing solutions in CPU architecture.
+
+In my regular work, I manage computers, optimizing performance across macOS, Linux, and virtual PC environments.
+
+To check my machine learning project and blogs visit to my GitHub, HuggingFace, Business-Blog (Hashnode), Medium and GitLab accounts: https://niladrridas.github.io
+
+
 ## Projects
 
 ### Artificial Intelligence
