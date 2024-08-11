@@ -18,7 +18,7 @@ Freelance Programmer & Data Scientist
 **Skills**
 ------------
 
-* Operating Systems: macOS (most), Linux (second most), Windows (less now)
+* OS & Tool: macOS, Ubuntu/RHEL/Kali, Windows & Jupyter Notebook
 * Languages: Python (most), JavaScript (less), SQL (required cases)
 * Data science: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 * Machine learning: Keras, PyTorch
