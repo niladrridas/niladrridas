@@ -19,16 +19,16 @@ Freelance Programmer & Data Scientist
 ------------
 
 ```
-* OS & Tool: macOS, Ubuntu/RHEL/Kali, Windows & Jupyter Notebook, Google Colab`
-* Languages: Python (most), JavaScript (less), SQL (required cases)`
-* Data science: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow`
+* OS & Tool: macOS, Ubuntu/RHEL/Kali, Windows & Jupyter Notebook, Google Colab
+* Languages: Python (most), JavaScript (less), SQL (required cases)
+* Data science: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 * Machine learning: Keras, PyTorch
 * Networking: LAN, WAN, TCP/IP, Routing
 * Cloud control: Google Cloud, Azure
 * AI tools: ChatGPT, Claude, Groq, Gemini Code Assist
 * Used-less: Kubernetes, Docker, Ansible
 * Hardware I know: 8085-86, 8051, Raspberry Pi, Intel-NVIDIA (OpenVINO, CUDA)
-* Compiler: Visual Studio Code, Android Studio, GNS3, Wireshark, Anaconda, Docker, Packet Tracer, EAGLE, UnityHub, Postgres 
+* Compiler: Visual Studio Code, Android Studio, GNS3, VMWare Fusion, Wireshark, Anaconda, Docker, IntelliJ IDEA CE, Packet Tracer, EAGLE, UnityHub, Postgres, Postman, FileZilla, GitHub Desktop, Terminal, Google Chrome, Slack, Discord, Visual Studio 2019, Windows Server 2019, Xilinx Vivado, Keil µVision
 ```
 
 **Contact**
