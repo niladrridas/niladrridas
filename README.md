@@ -28,6 +28,7 @@ Freelance Programmer & Data Scientist
 * AI tools: ChatGPT, Claude, Groq, Gemini Code Assist
 * Used-less: Kubernetes, Docker, Ansible
 * Hardware I know: 8085-86, 8051, Raspberry Pi, Intel-NVIDIA (OpenVINO, CUDA)
+* Compiler: Visual Studio Code, Android Studio, GNS3, Wireshark, Anaconda, Docker, Packet Tracer, EAGLE, UnityHub, Postgres 
 ```
 
 **Contact**
