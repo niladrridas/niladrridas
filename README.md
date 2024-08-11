@@ -6,32 +6,23 @@ Freelance Programmer & Data Scientist
 **About Me**
 ------------
 
-Hi, I'm Niladri Das, a freelance programmer and data scientist with a passion for building innovative solutions. With a strong background in programming languages such as C++, JavaScript, Python, and MySQL, I'm confident in my ability to tackle complex programming tasks.
+- Hi, I'm `Niladri Das`, a freelance programmer and data scientist with a passion for building innovative solutions. 
+- With a strong background in Linux, macOS, CLI, API, programming languages (eg. Bash, C++, JavaScript, Python, PostgreSQL).
 
 **Projects**
 ------------
 
-### Data Science
-
-* **Data Analysis**: [dataanalysis](https://github.com/niladrridas/dataanalysis) - Explore and analyze data using Python, Pandas, NumPy, and Matplotlib.
-* **ML Loan Eligibility**: [ml-loan-eligibility](https://github.com/niladrridas/ml-loan-eligibility) - Build a machine learning model to predict loan eligibility using Python, Scikit-learn, and TensorFlow.
-
-### Machine Learning
-
-* **Text-to-Image**: [text-to-image](https://github.com/niladrridas/text-to-image) - Generate images from text descriptions using Python, TensorFlow, and Keras.
-* **Deep Learning**: [deeplearning](https://github.com/niladrridas/deeplearning) - Explore deep learning concepts using Python, TensorFlow, and Keras.
-
-### Automation
-
-* **CPT Automation**: [cpt-automation](https://github.com/niladrridas/cpt-automation) - Automate tasks using Python, Selenium, and PyAutoGUI.
+- I actively build projects in Data Science, Machine Learning traditional and transformer & full stack (less).
+- I have been developing and helped to build avionics and payload previously as starting my career as a freshman in my university's programs. [LPU](www.lpu.in)
 
 **Skills**
 ------------
 
-* Programming languages: C++, JavaScript, Python, MySQL
+* Operating Systems: macOS (most), Linux (second most), Windows (less now)
+* Languages: Python (most), JavaScript (less), SQL (required cases)
 * Data science: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 * Machine learning: Keras, PyTorch
-* Automation: Selenium, PyAutoGUI
+* Networking: LAN, WAN, TCP/IP, Routing
 
 **Contact**
 ------------
