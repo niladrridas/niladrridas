@@ -1,7 +1,7 @@
 **Niladri Das**
 ================
 
-Freelance Programmer, IT Trainee & Data Scientist
+Freelance Programmer, IT Trainee
 
 ***About Me***
 ------------
