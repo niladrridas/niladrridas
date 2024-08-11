@@ -13,7 +13,7 @@ Freelance Programmer & Data Scientist
 ------------
 
 - I actively build projects in Data Science, Machine Learning traditional and transformer & full stack (less).
-- I have been developing and helped to build avionics and payload previously as starting my career as a freshman in my university's programs. [LPU](www.lpu.in)
+- I have been developing and helped to build avionics and payload previously as starting my career as a freshman in my university's programs. [LPU](https://www.lpu.in/)
 
 **Skills**
 ------------
