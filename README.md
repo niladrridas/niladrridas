@@ -22,7 +22,7 @@ Freelance Programmer, IT Trainee
 * OS & Tool: macOS, Ubuntu/RHEL/Kali, Windows & Jupyter Notebook, Google Colab
 * Languages: Python (most), JavaScript (less), SQL (required cases)
 * Data science: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
-* Machine learning: Keras, PyTorch
+* Machine learning: Keras, PyTorch, OpenCV
 * Networking: LAN, WAN, TCP/IP, Routing
 * Cloud control: Google Cloud, Azure
 * AI tools: ChatGPT, Claude, Groq, Gemini Code Assist
