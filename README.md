@@ -36,4 +36,4 @@ Data Engineer (Open to Freelance/Full-Time)
 
 Feel free to reach out to me at [Email](ndas1262000@gmail.com) or [LinkedIn profile](https://www.linkedin.com/in/niladrridas) for any collaborations or projects.
 
-Copyright © 2024, _Niladri Das_ All Rights Reserved.
+Copyright **© 2024**, _Niladri Das_ All Rights Reserved.
