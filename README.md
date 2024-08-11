@@ -7,7 +7,7 @@ Freelance Programmer & Data Scientist
 ------------
 
 - Hi, I'm `Niladri Das`, a freelance programmer and data scientist with a passion for building innovative solutions. 
-- With a strong background in Linux, macOS, CLI, API, programming languages (eg. Bash, C++, JavaScript, Python, PostgreSQL).
+- With a strong background in `Linux, macOS, CLI, API, programming languages` (eg. `Bash, C++, JavaScript, Python, PostgreSQL`).
 
 **Projects**
 ------------
@@ -18,11 +18,11 @@ Freelance Programmer & Data Scientist
 **Skills**
 ------------
 
-* OS & Tool: macOS, Ubuntu/RHEL/Kali, Windows & Jupyter Notebook
-* Languages: Python (most), JavaScript (less), SQL (required cases)
-* Data science: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
-* Machine learning: Keras, PyTorch
-* Networking: LAN, WAN, TCP/IP, Routing
+* OS & Tool: `macOS, Ubuntu/RHEL/Kali, Windows & Jupyter Notebook`
+* Languages: `Python (most), JavaScript (less), SQL (required cases)`
+* Data science: `Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow`
+* Machine learning: `Keras, PyTorch`
+* Networking: `LAN, WAN, TCP/IP, Routing`
 
 **Contact**
 ------------
