@@ -3,19 +3,19 @@
 
 Freelance Programmer & Data Scientist
 
-**About Me**
+***About Me***
 ------------
 
 - Hi, I'm _Niladri Das_, as a freelance programmer and data scientist, I share my programming thinking and codes here and also on hostings. (_E.g. GitLab, Hugging Face, Medium, Hashnode_)
 - I've an academic _project_publication (nano satellite)_, tech fest autonomous drone (UAV), CS portfolio-practice, research & workshop background in **GPU, _deep learning library [anomalib]([anomalib](https://github.com/openvinotoolkit/anomalib))_, Linux, macOS, datasets, CLI, API, programming languages** (E.g. `C++, JavaScript, Python, MySQL, Java, C, Pandas, PostgreSQL, Kotlin, TypeScript`). Learning _[xgboost](https://xgboost.readthedocs.io/en/latest/)!_
 
-**Projects**
+***Projects***
 ------------
 
 - I actively build projects in Data Science, Machine Learning traditional and transformer & full stack (less).
 - I have been developing and helped to build avionics and payload previously as starting my career as a freshman in my university's programs. [LPU](https://www.lpu.in/)
 
-**Skills**
+***Skills***
 ------------
 
 ```
@@ -31,7 +31,7 @@ Freelance Programmer & Data Scientist
 * Compiler: Visual Studio Code, Android Studio, GNS3, VMWare Fusion, Wireshark, Anaconda, Docker, IntelliJ IDEA CE, Packet Tracer, EAGLE, UnityHub, Postgres, Postman, FileZilla, GitHub Desktop, Terminal, Google Chrome, Slack, Discord, Visual Studio 2019, Windows Server 2019, Xilinx Vivado, Keil µVision
 ```
 
-**Contact**
+***Contact***
 ------------
 
 Feel free to reach out to me at [Email](ndas1262000@gmail.com) or [LinkedIn profile](https://www.linkedin.com/in/niladrridas) for any collaborations or projects.
