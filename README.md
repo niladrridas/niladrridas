@@ -6,8 +6,8 @@ Freelance Programmer & Data Scientist
 **About Me**
 ------------
 
-- Hi, I'm `Niladri Das`, a freelance programmer and data scientist with a passion for building innovative solutions. 
-- With a strong background in `Linux, macOS, CLI, API, programming languages` (eg. `Bash, C++, JavaScript, Python, PostgreSQL`).
+- Hi, I'm _Niladri Das_, as a freelance programmer and data scientist, I share my programming thinking and codes here and also on hostings. (_E.g. GitLab, Hugging Face, Medium, Hashnode_)
+- I've an academic _project_publication (nano satellite)_, tech fest autonomous drone (UAV), CS portfolio-practice, research & workshop background in **GPU, _deep learning library [anomalib]([anomalib](https://github.com/openvinotoolkit/anomalib))_, Linux, macOS, datasets, CLI, API, programming languages** (E.g. `C++, JavaScript, Python, MySQL, Java, C, Pandas, PostgreSQL, Kotlin, TypeScript`). Learning _[xgboost](https://xgboost.readthedocs.io/en/latest/)!_
 
 **Projects**
 ------------
@@ -18,11 +18,17 @@ Freelance Programmer & Data Scientist
 **Skills**
 ------------
 
-* OS & Tool: `macOS, Ubuntu/RHEL/Kali, Windows & Jupyter Notebook`
-* Languages: `Python (most), JavaScript (less), SQL (required cases)`
-* Data science: `Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow`
-* Machine learning: `Keras, PyTorch`
-* Networking: `LAN, WAN, TCP/IP, Routing`
+```
+* OS & Tool: macOS, Ubuntu/RHEL/Kali, Windows & Jupyter Notebook, Google Colab`
+* Languages: Python (most), JavaScript (less), SQL (required cases)`
+* Data science: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow`
+* Machine learning: Keras, PyTorch
+* Networking: LAN, WAN, TCP/IP, Routing
+* Cloud control: Google Cloud, Azure
+* AI tools: ChatGPT, Claude, Groq, Gemini Code Assist
+* Used-less: Kubernetes, Docker, Ansible
+* Hardware I know: 8085-86, 8051, Raspberry Pi, Intel-NVIDIA (OpenVINO, CUDA)
+```
 
 **Contact**
 ------------
