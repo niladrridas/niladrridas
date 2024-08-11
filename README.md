@@ -6,7 +6,7 @@ Freelance Programmer, IT Trainee
 ***About Me***
 ------------
 
-- Hi, I'm _Niladri Das_, as a freelance programmer and data scientist, I share my programming thinking and codes here and also on hostings. (_E.g. GitLab, Hugging Face, Medium, Hashnode_)
+- Hi, I'm _Niladri Das_, as a freelance programmer and data engineer, I share my programming thinking and codes here and also on hostings. (_E.g. GitLab, Hugging Face, Medium, Hashnode_)
 - I've an academic _project_publication (nano satellite)_, tech fest autonomous drone (UAV), CS portfolio-practice, research & workshop background in **GPU, _deep learning library [anomalib](https://github.com/openvinotoolkit/anomalib)_, Linux, macOS, datasets, CLI, API, programming languages** (E.g. `C++, JavaScript, Python, MySQL, Java, C, Pandas, PostgreSQL, Kotlin, TypeScript`). Learning _[xgboost](https://xgboost.readthedocs.io/en/latest/)!_
 
 ***Projects***
