@@ -12,8 +12,8 @@ Freelance Programmer, IT Trainee
 ***Projects***
 ------------
 
-- I actively build projects in Data Science, Machine Learning traditional and transformer & full stack (less).
-- I have been developing and helped to build avionics and payload previously as starting my career as a freshman in my university's programs. [LPU](https://www.lpu.in/)
+- I actively engage in project development utilizing Data Science and Machine Learning techniques, including both traditional and transformer-based methods. My experience also extends to full-stack development, though to a lesser degree.
+- Prior to commencing my current focus, I gained experience in avionics and payload development through contributions to projects during my freshman year at [LPU](https://www.lpu.in/).
 
 ***Skills***
 ------------
