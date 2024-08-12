@@ -1,7 +1,7 @@
 **Niladri Das**
 ================
 
-Data Engineer (Open to Freelance/Full-Time)
+Data Engineer (Open to Freelance/Full-Time) 🗽🗼
 
 ***About Me***
 ------------
