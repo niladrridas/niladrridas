@@ -1,8 +1,5 @@
 **Niladri Das**
 ================
-
-Machine Learning Engineer (Open to Freelance/Full-Time) 🗽🗼
-
 ***About Me***
 ------------
 
