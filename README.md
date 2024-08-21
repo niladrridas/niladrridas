@@ -1,36 +1,54 @@
-**Niladri Das**
-================
-***About Me***
-------------
+<h1 align="center">Hi 👋, I'm Niladri Das</h1>
+<h3 align="center">Software Engineer | AI Enthusiast | Innovator</h3>
 
-- Hi, I'm _Niladri Das_, as a freelance programmer and machine learning engineer, I share my programming thinking and codes here and also on hostings. (_E.g. [GitLab](https://gitlab.com/niladridas), [Hugging Face](https://huggingface.co/officialniladridas/), [Medium](https://medium.com/@niladrridas), [Hashnode](https://hashnode.com/@niladridas)_)
-- I've an academic _project_publication (nano satellite)_, tech fest autonomous drone (UAV), CS portfolio-practice, research & workshop background in **GPU, _deep learning library [anomalib](https://github.com/openvinotoolkit/anomalib)_, Linux, macOS, datasets, CLI, API, programming languages** (E.g. `C++, JavaScript, Python, MySQL, Java, C, Pandas, PostgreSQL, Kotlin, TypeScript`). Learning _[xgboost](https://xgboost.readthedocs.io/en/latest/)!_
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=F5F5F5&center=true&vCenter=true&width=450&lines=Turning+ideas+into+reality.;Building+with+passion+and+precision.">
+</p>
 
-***Projects***
-------------
+- 🔭 I’m currently working on **Stable Diffusion Model for Text to Image Generation**
+- 🌱 I’m continuously learning **AI, Machine Learning, and Data Science**
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/niladrridas)
+- 📝 I regularly write articles on [Medium](https://medium.com/@niladrridas) about technology and AI
+- 💬 Ask me about **Data Science, Machine Learning, and Full-Stack Development**
+- 📫 Reach me at **ndas1262000@gmail.com**
+- ⚡ Fun fact: **I’m not just a developer; I’m a creator.**
 
-- I actively engage in project development utilizing Data Science and Machine Learning techniques, including both traditional and transformer-based methods. My experience also extends to full-stack development, though to a lesser degree.
-- Prior to commencing my current focus, I gained experience in avionics and payload development through contributions to projects during my freshman year at [LPU](https://www.lpu.in/).
+### 🛠️ Technologies & Tools
 
-***Skills***
-------------
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-```
-* OS & Tool: macOS, Ubuntu/RHEL/Kali, Windows & Jupyter Notebook, Google Colab
-* Languages: Python (most), JavaScript (less), SQL (required cases)
-* Data science: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
-* Machine learning: Keras, PyTorch, OpenCV
-* Networking: LAN, WAN, TCP/IP, Routing
-* Cloud control: Google Cloud, Azure
-* AI tools: ChatGPT, Claude, Groq, Gemini Code Assist
-* Used-less: Kubernetes, Docker, Ansible
-* Hardware I know: 8085-86, 8051, Raspberry Pi, Intel-NVIDIA (OpenVINO, CUDA)
-* Compiler: Visual Studio Code, Android Studio, GNS3, VMWare Fusion, Wireshark, Anaconda, Docker, IntelliJ IDEA CE, Packet Tracer, EAGLE, UnityHub, Postgres, Postman, FileZilla, GitHub Desktop, Terminal, Google Chrome, Slack, Discord, Visual Studio 2019, Windows Server 2019, Xilinx Vivado, Keil µVision
-```
+### 📈 GitHub Stats
 
-***Contact***
-------------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niladrridas&show_icons=true&theme=radical" alt="Tony Stark's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niladrridas&theme=radical" alt="Tony Stark's GitHub Streak Stats" />
+</p>
 
-Feel free to reach out to me at [Email](mailto:ndas1262000@gmail.com) or [LinkedIn profile](https://www.linkedin.com/in/niladrridas) for any collaborations or projects.
+### 💡 Top Projects
 
-Copyright **© 2024**, _Niladri Das_ All Rights Reserved.
+[![Tesla Stock Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=niladrridas&repo=deeplearning&theme=radical)](https://github.com/niladrridas/deeplearning)
+[![DeepVision](https://github-readme-stats.vercel.app/api/pin/?username=niladrridas&repo=imageclassification&theme=radical)](https://github.com/niladrridas/imageclassification)
+[![Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=niladrridas&repo=facerecognition&theme=radical)](https://github.com/niladrridas/facerecognition)
+
+### 🌐 Connect with me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/niladrridas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@niladrridas" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium" alt="Medium" />
+  </a>
+  <a href="https://twitter.com/niladrridas" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://github.com/niladrridas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub" />
+  </a>
+</p>
