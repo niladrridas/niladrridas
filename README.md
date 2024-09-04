@@ -21,5 +21,6 @@ Competitive Programming
  [Software Engineer](https://www.hackerrank.com/certificates/de879709fc27)
  [Frontend Developer (React)](https://www.hackerrank.com/certificates/c278fc5f8cb0)
  [Java](https://www.hackerrank.com/certificates/717d406cb018)
+ [Python](https://www.hackerrank.com/certificates/e4036f9e83f4)
  [Problem Solving](https://www.hackerrank.com/certificates/2f809b5eaf41)
  
