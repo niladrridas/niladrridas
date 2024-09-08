@@ -2,17 +2,17 @@
 
 | Project # | Project Name |
 |-----------|--------------|
-| 1         | [**Capstone Project II: Voice-Activated Sentiment Analyzer with Speech Response**](#project-1) |
-| 2         | [**Capstone Project I: Facial Recognition System using Python and OpenCV**](#project-2) |
-| 3         | [**Industry Co-Op: Text Generation Model**](#project-3) |
-| 4         | [**Major Project: Raspberry Pi Portable Screen**](#project-4) |
-| 5         | [**Minor Project: Traffic Light Simulation with Microcontroller**](#project-5) |
+| 1         | [**Capstone Project II: Voice-Activated Sentiment Analyzer with Speech Response**](https://github.com/niladrridas/voice-assistant-chatbot) |
+| 2         | [**Capstone Project I: Facial Recognition System using Python and OpenCV**](https://github.com/niladrridas/facerecognition) |
+| 3         | [**Industry Co-Op: Text Generation Model**](https://github.com/niladrridas/geekle-aibot) |
+| 4         | [**Major Project: Raspberry Pi Portable Screen**](https://github.com/niladrridas/device) |
+| 5         | [**Minor Project: Traffic Light Simulation with Microcontroller**]() |
 
 ---
 
 ## **Detailed Project Overview**
 
-### **Capstone Project II: Voice-Activated Sentiment Analyzer with Speech Response** {#project-1}
+### **Capstone Project II: Voice-Activated Sentiment Analyzer with Speech Response** 
 
 | **Category**    | **Details**                                                           |
 |-----------------|-----------------------------------------------------------------------|
@@ -23,7 +23,7 @@
 
 ---
 
-### **Capstone Project I: Facial Recognition System using Python and OpenCV** {#project-2}
+### **Capstone Project I: Facial Recognition System using Python and OpenCV** 
 
 | **Category**    | **Details**                                                           |
 |-----------------|-----------------------------------------------------------------------|
@@ -34,7 +34,7 @@
 
 ---
 
-### **Industry Co-Op: Text Generation Model** {#project-3}
+### **Industry Co-Op: Text Generation Model** 
 
 | **Category**    | **Details**                                                           |
 |-----------------|-----------------------------------------------------------------------|
@@ -45,7 +45,7 @@
 
 ---
 
-### **Major Project: Raspberry Pi Portable Screen** {#project-4}
+### **Major Project: Raspberry Pi Portable Screen** 
 
 | **Category**    | **Details**                                                           |
 |-----------------|-----------------------------------------------------------------------|
@@ -56,7 +56,7 @@
 
 ---
 
-### **Minor Project: Traffic Light Simulation with Microcontroller** {#project-5}
+### **Minor Project: Traffic Light Simulation with Microcontroller** 
 
 | **Category**    | **Details**                                                           |
 |-----------------|-----------------------------------------------------------------------|
