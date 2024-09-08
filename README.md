@@ -50,7 +50,7 @@
 
 ---
 
-### **Industry Co-Op 2: Text-to-Image Generation using Stable Diffusion** {#project-4}
+### **Industry Co-Op 2: Text-to-Image Generation using Stable Diffusion** 
 
 | **Category**    | **Details**                                                           |
 |-----------------|-----------------------------------------------------------------------|
