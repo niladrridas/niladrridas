@@ -1,4 +1,4 @@
-## **Project Sequence (From Latest to Earliest)**
+## **Project Sequence (Some finished & unfinished works)**
 
 | Project # | Project Name |
 |-----------|--------------|
