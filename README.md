@@ -20,5 +20,5 @@
 | 6         | [**Minor Project: Traffic Light Simulation with Microcontroller**](#) |
 | 7         | [**Department Elective: Image Classification using MobileNetV2**](https://github.com/niladrridas/deepvision) |
 | 8         | [**Department Elective 2: Object Recognition using InceptionV3**](https://github.com/niladrridas/imageclassification) |
-| 9         | [**Department Elective Lab 1: Age Prediction using CNN**](https://gitlab.com/niladridas/age-prediction-app) |
+| 9         | [**Department Elective Lab 1: Age Prediction using CNN**](https://github.com/niladrridas/age-pred) |
 | 10        | [**Department Elective Lab 2: Lung Nodule Detection using CNN**](https://gitlab.com/niladridas/lungscan-ahr) |
