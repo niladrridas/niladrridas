@@ -1,3 +1,15 @@
+<!-- Icons for C, Python, and Bash -->
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<!-- Version Tag -->
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
+<!-- GIF Display -->
+![Alt Text](./gif/add.gif)
+
+<!-- Project Table -->
 | Project # | Project Name |
 |-----------|--------------|
 | 1         | [**Capstone Project II: Voice-Activated Sentiment Analyzer with Speech Response**](https://github.com/niladrridas/voice-assistant-chatbot) |
