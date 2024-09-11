@@ -38,6 +38,10 @@ Be sure to check out my other repositories on [GitHub](https://github.com/niladr
 
 ---
 
+You can also explore my **Ultra Premium CCNA Project Showcase** [here](https://niladri-das-ccna.vercel.app/) to dive deeper into my network engineering work and projects.
+
+---
+
 <p align="center">
   🚀 Stay tuned for more exciting innovations!
 </p>
