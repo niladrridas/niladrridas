@@ -1,17 +1,16 @@
 # 🚀 Ultra Premium Project Showcase
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version" />
+  <img src="https://img.shields.io/badge/version-1.1.0-blue" alt="Version" />
 </p>
 
 <p align="center">
-  <img src="./gif/add.gif" alt="Ultra Premium GIF Display" />
+  <img src="./gif/reddevils.gif" alt="Ultra Premium GIF Display" />
 </p>
 
 ---
