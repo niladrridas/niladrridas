@@ -1,11 +1,11 @@
-# 🚀 Python Project Showcase
+# Accepts in Python: Live Interactive Analysis Project 🐍
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.1.0-blue" alt="Version" />
+  <img src="https://img.shields.io/badge/version-3.11.0-blue" alt="Version" />
 </p>
 
 <p align="center">
